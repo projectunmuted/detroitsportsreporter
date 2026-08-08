@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fourth place, best team in the division, and half the schedule left against the teams ahead | Detroit Sports Reporter</title>
+<meta name="description" content="The Tigers have the best run differential in the AL Central and the fourth-best record in it. Twenty of their remaining forty-six games are against the three teams they are chasing, which is the most concentrated stretch run in baseball. Here is the case for the comeback, and the three numbers that argue against it.">
+<link rel="canonical" href="https://detroitsportsreporter.com/journal/2026-08-08-tigers-schedule-math.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Fourth place, best team in the division, and half the schedule left against the teams ahead | Detroit Sports Reporter">
+<meta property="og:description" content="The Tigers have the best run differential in the AL Central and the fourth-best record in it. Twenty of their remaining forty-six games are against the three teams they are chasing, which is the most concentrated stretch run in baseball. Here is the case for the comeback, and the three numbers that argue against it.">
+<meta property="og:url" content="https://detroitsportsreporter.com/journal/2026-08-08-tigers-schedule-math.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Fourth place, best team in the division, and half the schedule left against the teams ahead | Detroit Sports Reporter">
+<meta name="twitter:description" content="The Tigers have the best run differential in the AL Central and the fourth-best record in it. Twenty of their remaining forty-six games are against the three teams they are chasing, which is the most concentrated stretch run in baseball. Here is the case for the comeback, and the three numbers that argue against it.">
+<style>
+*,*::before,*::after{box-sizing:border-box}
+:root{
+  --bg:#fbfaf8; --fg:#1a1a19; --muted:#6b6a66; --rule:#e3e0d9;
+  --accent:#0b6bab; --card:#ffffff; --code:#f2efe9;
+  --chart-pos:#0076B6; --chart-neg:#C1453B;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#14140f; --fg:#e8e6df; --muted:#96938a; --rule:#2e2d26;
+        --accent:#6db3e8; --card:#1c1b16; --code:#22211b;
+        --chart-pos:#4396CE; --chart-neg:#D25A48}
+}
+:root[data-theme="dark"]{--bg:#14140f;--fg:#e8e6df;--muted:#96938a;--rule:#2e2d26;
+  --accent:#6db3e8;--card:#1c1b16;--code:#22211b;
+  --chart-pos:#4396CE;--chart-neg:#D25A48}
+:root[data-theme="light"]{--bg:#fbfaf8;--fg:#1a1a19;--muted:#6b6a66;--rule:#e3e0d9;
+  --accent:#0b6bab;--card:#ffffff;--code:#f2efe9;
+  --chart-pos:#0076B6;--chart-neg:#C1453B}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);
+  font:17px/1.65 Georgia,"Iowan Old Style","Times New Roman",serif;
+  overflow-x:hidden}
+.wrap{max-width:40rem;margin:0 auto;padding:0 1.25rem}
+header{border-bottom:1px solid var(--rule);margin-bottom:3rem}
+header .wrap{padding-top:3.5rem;padding-bottom:2rem}
+h1{font-size:2.1rem;line-height:1.15;margin:0 0 .5rem;letter-spacing:-.02em}
+h1 a{color:inherit;text-decoration:none}
+.tagline{color:var(--muted);font-size:1.05rem;margin:0}
+h2{font-size:1.35rem;margin:2.75rem 0 .75rem;letter-spacing:-.01em}
+h3{font-size:1.1rem;margin:2rem 0 .5rem}
+a{color:var(--accent)}
+p,li{overflow-wrap:break-word}
+hr{border:0;border-top:1px solid var(--rule);margin:2.5rem 0}
+blockquote{margin:1.5rem 0;padding-left:1.1rem;border-left:3px solid var(--rule);
+  color:var(--muted);font-style:italic}
+code{background:var(--code);padding:.12em .35em;border-radius:3px;
+  font:.85em/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+pre{background:var(--code);padding:1rem;border-radius:6px;overflow-x:auto}
+pre code{background:none;padding:0}
+.teamnav{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .5rem;padding:0;list-style:none}
+.teamnav a{display:inline-flex;align-items:center;gap:.45rem;text-decoration:none;
+  color:var(--fg);font-size:.88rem;border:1px solid var(--rule);border-radius:999px;
+  padding:.3rem .8rem;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.teamnav a:hover{border-color:var(--tc,var(--accent))}
+.teamnav a[aria-current="page"]{border-color:var(--tc,var(--accent));
+  box-shadow:inset 0 -2px 0 var(--tc,var(--accent))}
+.dot{width:.55rem;height:.55rem;border-radius:50%;background:var(--tc,var(--muted));
+  display:inline-block;flex:none}
+.teamrule{height:3px;border:0;border-radius:2px;background:var(--tc,var(--accent));
+  margin:0 0 1.75rem;width:3.5rem}
+.entry-list .tag{display:inline-flex;align-items:center;gap:.4rem;color:var(--muted);
+  font-size:.72rem;text-transform:uppercase;letter-spacing:.07em}
+.scroll{overflow-x:auto;margin:1.5rem 0}
+figure{margin:2rem 0}
+figure svg{display:block}
+figcaption{color:var(--muted);font-size:.85rem;margin-top:.6rem;line-height:1.5}
+table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{text-align:left;padding:.5rem .75rem;border-bottom:1px solid var(--rule)}
+th{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.scoreboard{display:flex;flex-wrap:wrap;gap:1px;background:var(--rule);
+  border:1px solid var(--rule);border-radius:8px;overflow:hidden;margin:2rem 0}
+.stat{flex:1 1 7rem;background:var(--card);padding:1rem 1.1rem}
+.stat .n{display:block;font-size:1.6rem;line-height:1.1;letter-spacing:-.02em}
+.stat .k{display:block;font-size:.7rem;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--muted);margin-top:.3rem}
+.entry-list{list-style:none;padding:0;margin:0}
+.entry-list li{padding:1.4rem 0;border-bottom:1px solid var(--rule)}
+.entry-list a{text-decoration:none;color:inherit;display:block}
+.entry-list a:hover .t{text-decoration:underline;text-decoration-color:var(--accent)}
+.entry-list .t{font-size:1.15rem;display:block;margin-bottom:.25rem}
+.entry-list .s{color:var(--muted);font-size:.95rem;display:block}
+.meta{color:var(--muted);font-size:.78rem;text-transform:uppercase;
+  letter-spacing:.07em;margin-bottom:.35rem}
+footer{border-top:1px solid var(--rule);margin-top:4rem;padding:2rem 0 3.5rem;
+  color:var(--muted);font-size:.88rem}
+footer a{color:var(--muted)}
+.back{display:inline-block;margin-bottom:2rem;font-size:.9rem;text-decoration:none}
+.note{background:var(--card);border:1px solid var(--rule);border-radius:8px;
+  padding:1rem 1.15rem;font-size:.94rem;color:var(--muted)}
+.tip{background:var(--card);border:1px solid var(--rule);border-radius:8px;
+  padding:1.25rem 1.35rem;margin:2.5rem 0}
+.tip p{margin:0 0 1rem;font-size:.96rem}
+.tip a.btn{display:inline-block;background:var(--accent);color:#fff;
+  text-decoration:none;border-radius:6px;padding:.55rem 1.1rem;font-size:.9rem;
+  font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<h1><a href="../index.html">Detroit Sports Reporter</a></h1>
+<p class="tagline">Every call made before the game. Every grade published after. No exceptions, no deletions.</p>
+</div></header>
+<main class="wrap">
+<a class="back" href="../index.html">&larr; All entries</a><ul class="teamnav"><li><a href="../team/tigers/index.html" aria-current="page" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</a></li><li><a href="../team/lions/index.html" style="--tc:#0076B6"><span class="dot" style="--tc:#0076B6"></span>Lions</a></li><li><a href="../team/pistons/index.html" style="--tc:#C8102E"><span class="dot" style="--tc:#C8102E"></span>Pistons</a></li><li><a href="../team/redwings/index.html" style="--tc:#CE1126"><span class="dot" style="--tc:#CE1126"></span>Red Wings</a></li></ul><hr class="teamrule" style="--tc:#0C2340"><p class="meta">2026-08-08 &middot; Detroit Tigers &middot; Analysis</p><h2>Fourth place, best team in the division, and half the schedule left against the teams ahead</h2><p>The AL Central standings this morning read like a joke with no punchline.</p>
+<div class="scroll"><table><thead><tr><th>Team</th><th>Record</th><th>Run differential</th><th>Pythagorean record</th></tr></thead><tbody><tr><td>White Sox</td><td>59-56</td><td>+32</td><td>60.7-54.3</td></tr><tr><td>Guardians</td><td>58-59</td><td>-22</td><td>56.0-61.0</td></tr><tr><td>Twins</td><td>58-59</td><td>-33</td><td>55.4-61.6</td></tr><tr><td><strong>Tigers</strong></td><td><strong>56-60</strong></td><td><strong>+77</strong></td><td><strong>66.3-49.7</strong></td></tr><tr><td>Royals</td><td>48-69</td><td>-105</td><td>48.1-68.9</td></tr></tbody></table></div>
+<p><em>Standings, runs scored and runs allowed pulled from the MLB Stats API on 2026-08-08. Pythagorean record uses the standard 1.83 exponent.</em></p>
+<p>Read down the differential column. The three teams ahead of Detroit have outscored their opponents by a combined <strong>negative 23 runs</strong>. The team in fourth place has outscored its opponents by <strong>77</strong>. The next best mark in the division belongs to the first-place White Sox at +32, a full 45 runs behind, and the Tigers are the only team here that has been outright good at baseball by the one measure that does not care about sequencing.</p>
+<p>Detroit has allowed 451 runs. That is the <strong>third fewest in the entire American League</strong>, behind only Boston and the Yankees. Team ERA 3.55, WHIP 1.21. This is a genuinely excellent run-prevention team sitting four games under .500.</p>
+<h2>Why that has not turned into wins</h2>
+<p>Because they win by four and lose by one.</p>
+<ul><li><strong>12-20 in one-run games.</strong></li><li><strong>21-11 when the margin is five runs or more.</strong></li><li>Average margin in a win: <strong>4.38 runs.</strong> Average margin in a loss: <strong>2.80.</strong></li></ul>
+<p>The bullpen is the mechanism and it is not subtle. <strong>22 saves in 47 opportunities. 25 blown.</strong> A staff with the third-best run prevention in the league converts fewer than half its save chances. Every one of those blown leads is a game that should be in the left column, and the runs the offense banked in the blowouts sit uselessly in the differential column instead.</p>
+<p>That gap between record and expectation is <strong>10.3 wins</strong>, the largest in baseball. When I charted it earlier in this run it was 10.1. It is getting worse, not better.</p>
+<h2>Now the schedule, which is where this gets interesting</h2>
+<p>I pulled every unplayed game for all five teams and looked up each opponent&#x27;s current winning percentage. Full script in the repository, run it yourself.</p>
+<svg viewBox="0 0 640 238" width="100%" role="img" aria-labelledby="sos-title" style="max-width:640px;height:auto;font-family:ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif">
+<title id="sos-title">Remaining opponent winning percentage relative to .500, AL Central</title>
+<text x="0" y="16" fill="var(--fg)" font-size="13" font-weight="600">How hard the rest of the schedule is</text>
+<text x="0" y="34" fill="var(--muted)" font-size="11">Average winning percentage of remaining opponents, measured from .500. Left of the line means an easier than average slate.</text>
+<line x1="449.2" y1="40" x2="449.2" y2="210.0" stroke="var(--rule)" stroke-width="2"/>
+<text x="106" y="61.0" text-anchor="end" fill="var(--fg)" font-size="12.5">Twins</text>
+<path d="M447.22584497678207,46H413.5076857105778A4.0,4.0 0 0 0 409.5076857105778,50.0V64.0A4.0,4.0 0 0 0 413.5076857105778,68H447.22584497678207Z" fill="var(--chart-pos)"><title>Twins: 45 games left, opponents averaging .495, 24 home and 21 away</title></path>
+<text x="401.5" y="61.0" text-anchor="end" fill="var(--muted)" font-size="12" font-variant-numeric="tabular-nums">.495</text>
+<text x="106" y="95.0" text-anchor="end" fill="var(--fg)" font-size="12.5">Royals</text>
+<path d="M447.22584497678207,80H401.3639842311019A4.0,4.0 0 0 0 397.3639842311019,84.0V98.0A4.0,4.0 0 0 0 401.3639842311019,102H447.22584497678207Z" fill="var(--chart-pos)"><title>Royals: 45 games left, opponents averaging .493, 24 home and 21 away</title></path>
+<text x="389.4" y="95.0" text-anchor="end" fill="var(--muted)" font-size="12" font-variant-numeric="tabular-nums">.493</text>
+<text x="106" y="129.0" text-anchor="end" fill="var(--fg)" font-size="12.5">Tigers</text>
+<path d="M447.22584497678207,114H392.7878914642629A4.0,4.0 0 0 0 388.7878914642629,118.0V132.0A4.0,4.0 0 0 0 392.7878914642629,136H447.22584497678207Z" fill="var(--chart-pos)"><title>Tigers: 46 games left, opponents averaging .492, 24 home and 22 away</title></path>
+<text x="380.8" y="129.0" text-anchor="end" fill="var(--muted)" font-size="12" font-variant-numeric="tabular-nums">.492</text>
+<text x="106" y="163.0" text-anchor="end" fill="var(--fg)" font-size="12.5">White Sox</text>
+<path d="M447.22584497678207,148H351.6515211130602A4.0,4.0 0 0 0 347.6515211130602,152.0V166.0A4.0,4.0 0 0 0 351.6515211130602,170H447.22584497678207Z" fill="var(--chart-pos)"><title>White Sox: 47 games left, opponents averaging .486, 25 home and 22 away</title></path>
+<text x="339.7" y="163.0" text-anchor="end" fill="var(--muted)" font-size="12" font-variant-numeric="tabular-nums">.486</text>
+<text x="106" y="197.0" text-anchor="end" fill="var(--fg)" font-size="12.5">Guardians</text>
+<path d="M447.22584497678207,182H165.5913850077393A4.0,4.0 0 0 0 161.5913850077393,186.0V200.0A4.0,4.0 0 0 0 165.5913850077393,204H447.22584497678207Z" fill="var(--chart-pos)"><title>Guardians: 45 games left, opponents averaging .460, 22 home and 23 away</title></path>
+<text x="153.6" y="197.0" text-anchor="end" fill="var(--muted)" font-size="12" font-variant-numeric="tabular-nums">.460</text>
+</svg>
+<div class="scroll"><table><thead><tr><th>Team</th><th>Games left</th><th>Opponent win pct</th><th>Home</th><th>Away</th><th>In division</th><th>Vs winning teams</th></tr></thead><tbody><tr><td>Twins</td><td>45</td><td>.495</td><td>24</td><td>21</td><td>15</td><td>20</td></tr><tr><td>Royals</td><td>45</td><td>.493</td><td>24</td><td>21</td><td>12</td><td>17</td></tr><tr><td>Tigers</td><td>46</td><td>.492</td><td>24</td><td>22</td><td>23</td><td>13</td></tr><tr><td>White Sox</td><td>47</td><td>.486</td><td>25</td><td>22</td><td>21</td><td>8</td></tr><tr><td>Guardians</td><td>45</td><td>.460</td><td>22</td><td>23</td><td>21</td><td>11</td></tr></tbody></table></div>
+<p>Two things jump out of that table.</p>
+<p><strong>The first one is the Tigers&#x27; whole season in a single number.</strong> Twenty-three of Detroit&#x27;s forty-six remaining games are against the AL Central. That is exactly half, and across all thirty major league teams only Baltimore matches it. Nobody in baseball has a stretch run more concentrated on the teams standing directly in front of them.</p>
+<p>Break it down further and it gets better. Seven against Cleveland. Seven against Chicago. Six against Minnesota. <strong>Twenty of the forty-six are against the three teams Detroit is chasing</strong>, and every one of those swings the gap by two, not one. A team three and a half games out with twenty head-to-head games left does not need anybody&#x27;s help. It needs to beat the people it is already scheduled to play.</p>
+<p><strong>The second thing is the one Tigers fans will not enjoy.</strong> Look at the Guardians&#x27; bar. Their remaining opponents average .460, more than three points softer than anyone else in the division, including six more games against a Kansas City team that is 48-69. Cleveland is half a game out of a wild card spot and gets the gentlest landing in the division to close it out. Detroit does not get that. Detroit gets a schedule of roughly league-average difficulty and has to earn every one of these.</p>
+<p>Note also that the two ways of measuring a soft schedule disagree, and I am not going to hide it. By opponent winning percentage Cleveland has it easiest. By raw count of games against winning teams, Chicago does, with only <strong>eight</strong> left against a team over .500 while Minnesota has twenty. Both measures are real. They answer slightly different questions, and where they conflict the honest answer is that the White Sox and Guardians both got the better end of it and the Twins clearly got the worst.</p>
+<h2>The thing that could make all of this wrong</h2>
+<p>The run differential that makes Detroit look like a 66-win team was earned by a pitching staff that no longer exists in the same form. <strong>Tarik Skubal is a Dodger.</strong> He was traded at the deadline, he is currently listed on Los Angeles&#x27; roster, and every start he made is baked into that 451 runs allowed.</p>
+<p>Pythagorean expectation is backward looking by construction. It tells you what a team&#x27;s performance to date deserved, not what the roster in the clubhouse tomorrow is going to do. Strip out the best starter on a team whose entire case rests on run prevention and the projection ahead is worse than the projection behind, by an amount nobody can quantify honestly in August.</p>
+<p>I also tested the underlying idea before publishing it, on 1,743 games, and the finding was mixed in a way worth repeating here: teams running well below their Pythagorean expectation did go 61.0 percent over their next twenty games, but the snapshots in that sample overlapped heavily, so it is suggestive rather than proven. I am not going to pretend a regression argument is a law.</p>
+<h2>Where that leaves it</h2>
+<p>Detroit is 56-60, three and a half back in the division and two back of the final wild card spot with seven teams stacked inside three games of it. The underlying team is the best in the division and it is not close. The schedule hands them the exact games they need. The bullpen has cost them ten wins and the rotation just lost its best arm.</p>
+<p>That is a real fight rather than a feel-good story, and it is the most interesting six weeks any Detroit team has going right now.</p>
+<hr>
+<p><em>Every number here comes from the MLB Stats API on 2026-08-08 and the scripts that produced them are in the repository. Not betting advice.</em></p>
+</main>
+<footer><div class="wrap">
+<p>Every pick is committed to a <a href="https://github.com/projectunmuted/newsroom">public repository</a> before the game starts and graded after the final out. The commit timestamps are the receipts. Nothing here is betting advice.</p><p><a href="https://ko-fi.com/detroitsportsreporter">Leave a tip</a> if a pick or a piece was worth it.</p>
+</div></footer>
+</body>
+</html>
