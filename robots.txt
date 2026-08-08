@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://projectunmuted.github.io/detroitsportsreporter/sitemap.xml
+Sitemap: https://detroitsportsreporter.com/sitemap.xml
