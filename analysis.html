@@ -44,11 +44,30 @@ body{margin:0;background:var(--bg);color:var(--fg);
   font:17px/1.65 Georgia,"Iowan Old Style","Times New Roman",serif;
   overflow-x:hidden}
 .wrap{max-width:40rem;margin:0 auto;padding:0 1.25rem}
-header{border-bottom:1px solid var(--rule);margin-bottom:3rem}
-header .wrap{padding-top:3.5rem;padding-bottom:2rem}
-h1{font-size:2.1rem;line-height:1.15;margin:0 0 .5rem;letter-spacing:-.02em}
-h1 a{color:inherit;text-decoration:none}
-.tagline{color:var(--muted);font-size:1.05rem;margin:0}
+header{border-bottom:1px solid var(--rule);margin-bottom:1.5rem}
+header.hero{position:relative;border-bottom:0;margin-bottom:0}
+header.plain{margin-bottom:2.5rem}
+header.plain h1{font-size:2.1rem;line-height:1.15;margin:0 0 .5rem;letter-spacing:-.02em}
+header.plain h1 a{color:inherit;text-decoration:none}
+header.plain .tagline{color:var(--muted);font-size:1.05rem;margin:0}
+header.plain .hero-text{max-width:40rem;margin:0 auto;padding:2.25rem 1.25rem 1.25rem}
+.band{position:relative;line-height:0;overflow:hidden;background:var(--wash)}
+.band img{display:block;width:100%;height:230px;object-fit:cover;
+  object-position:50% 56%;filter:saturate(.95) contrast(1.02)}
+.band::after{content:"";position:absolute;inset:0;background:var(--wash);
+  mix-blend-mode:multiply;opacity:.26}
+.band::before{content:"";position:absolute;inset:0;z-index:1;background:
+  linear-gradient(to top,rgba(0,0,0,.72) 0%,rgba(0,0,0,.28) 42%,rgba(0,0,0,0) 78%)}
+.hero .hero-text{position:absolute;left:0;right:0;bottom:0;z-index:2;
+  padding:0 1.5rem 1.1rem;line-height:1.2}
+.hero h1{color:#fff;text-shadow:0 1px 14px rgba(0,0,0,.45);font-size:2.4rem;
+  margin:0 0 .2rem}
+.hero h1 a{color:inherit}
+.hero .tagline{color:rgba(255,255,255,.92);text-shadow:0 1px 10px rgba(0,0,0,.5);
+  font-size:1rem;margin:0;letter-spacing:.01em}
+.navbar{border-bottom:1px solid var(--rule);margin-bottom:2.5rem;
+  padding:0 1.5rem}
+.navbar h1 a{color:inherit;text-decoration:none}
 h2{font-size:1.35rem;margin:2.75rem 0 .75rem;letter-spacing:-.01em}
 h3{font-size:1.1rem;margin:2rem 0 .5rem}
 a{color:var(--accent)}
@@ -86,6 +105,15 @@ th{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mu
 .stat .n{display:block;font-size:1.6rem;line-height:1.1;letter-spacing:-.02em}
 .stat .k{display:block;font-size:.7rem;text-transform:uppercase;
   letter-spacing:.07em;color:var(--muted);margin-top:.3rem}
+.sitenav{margin:0}
+.navbar .sitenav ul{padding:.7rem 0}
+@media(max-width:44rem){.band img{height:168px}
+  .hero h1{font-size:1.7rem}
+  .hero .tagline{font-size:.92rem}
+  .hero .hero-text{padding:0 1.1rem .9rem}
+  .navbar{padding:0 1.1rem}}
+@media(prefers-color-scheme:dark){.band img{filter:saturate(.85) brightness(.8)}
+  .band::after{opacity:.3}}
 .sitenav{margin-top:1rem}
 .sitenav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;
   gap:0 1.4rem;font-size:.9rem}
@@ -140,11 +168,12 @@ footer a{color:var(--muted)}
 </style>
 </head>
 <body>
-<header><div class="wrap">
-<h1><a href="index.html">Detroit Sports Reporter</a></h1>
-<p class="tagline">Every call made before the game. Every grade published after. No exceptions, no deletions.</p>
-<nav class="sitenav"><ul><li><a href="index.html#picks">Picks</a></li><li><a href="analysis.html">Analysis</a></li><li><a href="index.html#teams">Teams</a></li><li><a href="about.html">About</a></li></ul></nav>
-</div></header>
+<header class="hero">
+<div class="band" style="--wash:var(--accent)"><picture><source media="(max-width:44rem)" srcset="assets/skyline-narrow.jpg"><img src="assets/skyline.jpg" alt="The Detroit skyline across the river at sunset" width="1920" height="456" loading="eager" decoding="async"></picture></div>
+<div class="hero-text"><h1><a href="index.html">Detroit Sports Reporter</a></h1>
+<p class="tagline">Analysis and picks. Tigers, Lions, Pistons, Red Wings.</p></div>
+</header>
+<div class="navbar"><nav class="sitenav"><ul><li><a href="index.html#picks">Picks</a></li><li><a href="analysis.html">Analysis</a></li><li><a href="index.html#teams">Teams</a></li><li><a href="about.html">About</a></li></ul></nav></div>
 
 <main class="wrap">
 <h2>Every piece</h2><p class="sub">Calls, grades and analysis, newest first.</p><ul class="entry-list"><li><a href="journal/2026-08-10-pick-03-anderson-returns.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-10 &middot; Pick 3</span><span class="t">Pick No. 3: Detroit released this pitcher in April 2024. Tuesday he starts against the team standing between them and October</span><span class="s">Drew Anderson was let go by the Toledo Mud Hens two years ago, spent four years in Japan and Korea, and is now the Tigers&#x27; answer to trading Tarik Skubal. He has never faced more than 18 batters in a major league game. He gets Tanner Bibee, who has a 1.80 ERA against Detroit this year, in a game Detroit has to have.</span></a></li><li><a href="journal/2026-08-09-tigers-cleveland-0-6.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-09 &middot; Analysis</span><span class="t">The Tigers are 0-6 against Cleveland with the worst offensive matchup in baseball. I went looking for the reason and found out there probably isn&#x27;t one</span><span class="s">Detroit has scored 11 runs in six games against the Guardians, 1.83 a game against a season average of 4.58. Out of 294 team-opponent pairs in baseball, that is the single worst. Then I shuffled who played whom two thousand times, and pure chance produced a worst matchup more extreme than Detroit&#x27;s in 74 percent of the shuffles. The tell is that the same Tigers own the other tail too.</span></a></li><li><a href="journal/2026-08-09-pistons-biggest-leap.html"><span class="meta"><span class="tag" style="--tc:#C8102E"><span class="dot" style="--tc:#C8102E"></span>Pistons</span> &middot; 2026-08-09 &middot; Analysis</span><span class="t">The Pistons just made the biggest two-year climb in the NBA since 1993. I went looking for the crash that is supposed to follow it</span><span class="s">Detroit went 14-68, then 44-38, then 60-22. That is a gain of 46 wins in two seasons and nothing in thirty-four years of standings matches it. The fear is that a climb that steep has to come back down. Fifteen teams have climbed anything like it, and what they did next runs both ways with no signal in it. What does predict next season is duller: Detroit is a 60-win team now, and 60-win teams give back about five.</span></a></li><li><a href="journal/2026-08-09-grade-pick-02.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-09 &middot; Grade</span><span class="t">Graded: Pick No. 2, Tigers at Giants. Correct in ten innings, and wrong about both pitchers</span><span class="s">The call was Tigers win, Low confidence. Final: Detroit 3, San Francisco 1 in ten. The pick landed and the two arguments holding it up both fell over inside the first seven innings.</span></a></li><li><a href="journal/2026-08-09-grade-pick-01.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-09 &middot; Grade</span><span class="t">Graded: Pick No. 1, Tigers at Giants. Correct, 8-0, and the reasoning was only half right</span><span class="s">The call was Tigers win, Low confidence. Final: Tigers 8, Giants 0. Record moves to 1-0. The pick was right and one of the two things it leaned on did not happen at all.</span></a></li><li><a href="journal/2026-08-09-close-games-skill-or-luck.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-09 &middot; Analysis</span><span class="t">Are the Tigers bad at close games, or unlucky? Five seasons say both, and mostly the second one</span><span class="s">Readers pushed back on the regression argument: losing close games might be who this team is, not luck waiting to reverse. That is testable. Across 150 team-seasons, a close-game record carries about 61 percent of the repeatable signal an ordinary stretch of schedule carries. Not zero, and not close to all of it. For Detroit it is worth about two wins over the last 45 games, and the reader objection that actually survives is a different one.</span></a></li><li><a href="journal/2026-08-08-tigers-schedule-math.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-08 &middot; Analysis</span><span class="t">Fourth place, best team in the division, and half the schedule left against the teams ahead</span><span class="s">The Tigers have the best run differential in the AL Central and the fourth-best record in it. Twenty of their remaining forty-six games are against the three teams they are chasing, which is the most concentrated stretch run in baseball. Here is the case for the comeback, and the three numbers that argue against it.</span></a></li><li><a href="journal/2026-08-08-preseason-means-nothing.html"><span class="meta"><span class="tag" style="--tc:#0076B6"><span class="dot" style="--tc:#0076B6"></span>Lions</span> &middot; 2026-08-08</span><span class="t">The Lions open Thursday and I am not putting it on the board. Here is the receipt.</span><span class="s">Every NFL team, every preseason from 2015 to 2025. Preseason record explains about one percent of what happens in the regular season, and the teams that went undefeated in August did worse than the teams that went winless.</span></a></li><li><a href="journal/2026-08-08-pick-02-melton-mirage.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-08 &middot; Pick 2</span><span class="t">Pick No. 2: the luckiest pitcher in baseball starts Sunday, and I am taking him anyway</span><span class="s">Troy Melton has a 1.58 ERA and the lowest BABIP of any starter in Major League Baseball. One of those numbers is real. Logan Webb has a 5.45 ERA over his last six starts, which is why the call still goes to Detroit.</span></a></li><li><a href="journal/2026-08-08-pick-01-jobe-returns.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-08 &middot; Pick 1</span><span class="t">Pick No. 1: the unluckiest team in baseball plays the worst team in California</span><span class="s">Detroit has been robbed of ten wins, more than any team in baseball, and the culprit has a number. Jackson Jobe throws 100 again on Saturday.</span></a></li><li><a href="journal/2026-08-08-backtest-method.html"><span class="meta"><span class="tag" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</span> &middot; 2026-08-08 &middot; Method</span><span class="t">I tested my own method on 1,743 games before asking you to trust it</span><span class="s">Picking single baseball games is close to a coin flip and I can prove it. But the thesis behind Pick No. 1 held up, and the gap between those two facts is the whole point of this site.</span></a></li></ul>
