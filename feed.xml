@@ -5,7 +5,66 @@
   <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/"/>
   <link rel="self" type="application/atom+xml" href="https://detroitsportsreporter.com/feed.xml"/>
   <id>tag:detroitsportsreporter.com,2026:feed</id>
-  <updated>2026-08-10T12:59:00Z</updated>
+  <updated>2026-08-11T12:59:00Z</updated>
+  <entry>
+    <title>Somebody said the whole season is the blown saves. So I counted the leads instead.</title>
+    <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-11-leads-that-got-away.html"/>
+    <id>tag:detroitsportsreporter.com,2026:journal/2026-08-11-leads-that-got-away.html</id>
+    <updated>2026-08-11T12:59:00Z</updated>
+    <published>2026-08-11T12:59:00Z</published>
+    <summary type="text">Detroit has led after 7 innings 57 times and lost 11 of those games. The league holds 90.2% of those leads. At that rate the Tigers would have about 5 more wins, which puts them in first place. The claim checks out.</summary>
+    <content type="html">&lt;p&gt;Somebody on the Tigers sub put it about as plainly as it can be put: the whole season is that blown save number, and if it was 20 instead of 26 we&amp;#x27;d be in first. 25 people upvoted it. So I went and checked whether that&amp;#x27;s actually true.&lt;/p&gt;
+&lt;p&gt;Here&amp;#x27;s the thing about blown saves though. A blown save isn&amp;#x27;t a loss. You can blow 1 in the 8th and win in the 10th, and that still goes in the column. So counting them doesn&amp;#x27;t tell you what it cost. What tells you is the leads that turned into losses.&lt;/p&gt;
+&lt;p&gt;So I pulled every inning of every game for all 30 teams and rebuilt the score after 7.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Detroit has led after 7 innings 57 times this year and lost 11 of them.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;What everyone else does with a lead&lt;/h2&gt;
+&lt;p&gt;The league held 1,436 of 1,592 leads after 7. That&amp;#x27;s 90.2%.&lt;/p&gt;
+&lt;svg viewBox=&quot;0 0 640 288&quot; width=&quot;100%&quot; role=&quot;img&quot; aria-labelledby=&quot;lead-t&quot; style=&quot;max-width:640px;height:auto;font-family:ui-sans-serif,system-ui,-apple-system,&#x27;Segoe UI&#x27;,Roboto,sans-serif&quot;&gt;
+&lt;title id=&quot;lead-t&quot;&gt;Share of leads after 7 innings that each team held&lt;/title&gt;
+&lt;text x=&quot;0&quot; y=&quot;16&quot; fill=&quot;var(--fg)&quot; font-size=&quot;13&quot; font-weight=&quot;600&quot;&gt;How often a lead after 7 innings survives&lt;/text&gt;
+&lt;text x=&quot;0&quot; y=&quot;34&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;Teams with at least 35 such leads. The line is the league rate.&lt;/text&gt;
+&lt;line x1=&quot;445.5&quot; y1=&quot;48&quot; x2=&quot;445.5&quot; y2=&quot;268&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;2&quot;/&gt;
+&lt;text x=&quot;182&quot; y=&quot;67&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Kansas City Royals&lt;/text&gt;
+&lt;rect x=&quot;190&quot; y=&quot;57&quot; width=&quot;56.0&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Kansas City Royals: held 38 of 49&lt;/title&gt;&lt;/rect&gt;
+&lt;text x=&quot;252.0&quot; y=&quot;69&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;77.6%&lt;/text&gt;
+&lt;text x=&quot;182&quot; y=&quot;93&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Athletics&lt;/text&gt;
+&lt;rect x=&quot;190&quot; y=&quot;83&quot; width=&quot;81.5&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Athletics: held 38 of 48&lt;/title&gt;&lt;/rect&gt;
+&lt;text x=&quot;277.5&quot; y=&quot;95&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;79.2%&lt;/text&gt;
+&lt;text x=&quot;182&quot; y=&quot;119&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Detroit Tigers&lt;/text&gt;
+&lt;rect x=&quot;190&quot; y=&quot;109&quot; width=&quot;105.7&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Detroit Tigers: held 46 of 57&lt;/title&gt;&lt;/rect&gt;
+&lt;text x=&quot;301.7&quot; y=&quot;121&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;80.7%&lt;/text&gt;
+&lt;text x=&quot;182&quot; y=&quot;145&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Los Angeles Angels&lt;/text&gt;
+&lt;rect x=&quot;190&quot; y=&quot;135&quot; width=&quot;108.0&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Los Angeles Angels: held 38 of 47&lt;/title&gt;&lt;/rect&gt;
+&lt;text x=&quot;304.0&quot; y=&quot;147&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;80.9%&lt;/text&gt;
+&lt;text x=&quot;182&quot; y=&quot;171&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;San Francisco Giants&lt;/text&gt;
+&lt;rect x=&quot;190&quot; y=&quot;161&quot; width=&quot;147.2&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;San Francisco Giants: held 45 of 54&lt;/title&gt;&lt;/rect&gt;
+&lt;text x=&quot;343.2&quot; y=&quot;173&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;83.3%&lt;/text&gt;
+&lt;text x=&quot;182&quot; y=&quot;197&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;San Diego Padres&lt;/text&gt;
+&lt;rect x=&quot;190&quot; y=&quot;187&quot; width=&quot;377.8&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;San Diego Padres: held 48 of 49&lt;/title&gt;&lt;/rect&gt;
+&lt;text x=&quot;573.8&quot; y=&quot;199&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;98.0%&lt;/text&gt;
+&lt;text x=&quot;182&quot; y=&quot;223&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Texas Rangers&lt;/text&gt;
+&lt;rect x=&quot;190&quot; y=&quot;213&quot; width=&quot;377.8&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Texas Rangers: held 48 of 49&lt;/title&gt;&lt;/rect&gt;
+&lt;text x=&quot;573.8&quot; y=&quot;225&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;98.0%&lt;/text&gt;
+&lt;text x=&quot;182&quot; y=&quot;249&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Tampa Bay Rays&lt;/text&gt;
+&lt;rect x=&quot;190&quot; y=&quot;239&quot; width=&quot;383.7&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Tampa Bay Rays: held 59 of 60&lt;/title&gt;&lt;/rect&gt;
+&lt;text x=&quot;579.7&quot; y=&quot;251&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;98.3%&lt;/text&gt;
+&lt;/svg&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Team&lt;/th&gt;&lt;th&gt;Leads after 7&lt;/th&gt;&lt;th&gt;Lost&lt;/th&gt;&lt;th&gt;Held&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Royals&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;77.6%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Athletics&lt;/td&gt;&lt;td&gt;48&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;79.2%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tigers&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;57&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;11&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;80.7%&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Angels&lt;/td&gt;&lt;td&gt;47&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;80.9%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Giants&lt;/td&gt;&lt;td&gt;54&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;83.3%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;League&lt;/td&gt;&lt;td&gt;1,592&lt;/td&gt;&lt;td&gt;156&lt;/td&gt;&lt;td&gt;90.2%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Padres&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;98.0%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rangers&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;98.0%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rays&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;98.3%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Every completed game through Aug 10, rebuilt from the linescores on the MLB Stats API. Script&amp;#x27;s in the repo, run it yourself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Tampa&amp;#x27;s led after 7 60 times and lost 1. Detroit&amp;#x27;s had 3 fewer chances and lost 11.&lt;/p&gt;
+&lt;h2&gt;What it cost, in wins&lt;/h2&gt;
+&lt;p&gt;At the league rate Detroit loses about 5.6 of those 57 leads. They lost 11. So call it &lt;strong&gt;5 extra losses&lt;/strong&gt;, and those 5 are the whole argument.&lt;/p&gt;
+&lt;p&gt;58-60 becomes roughly 63-55. Chicago&amp;#x27;s at 61-56. That&amp;#x27;s first place, by about a game and a half, and it&amp;#x27;s the middle of August.&lt;/p&gt;
+&lt;p&gt;So yeah, the guy was right.&lt;/p&gt;
+&lt;h2&gt;Where I&amp;#x27;d push back on myself&lt;/h2&gt;
+&lt;p&gt;A couple of things before anybody takes 63-55 as gospel.&lt;/p&gt;
+&lt;p&gt;Not every one of those 11 was a save situation. Detroit was up 5-1 after 7 on March 31 and lost 7-5, and that&amp;#x27;s a starter and a middle reliever coming apart, not a closer. The blown save number and the lost lead number overlap a lot but they aren&amp;#x27;t the same list.&lt;/p&gt;
+&lt;p&gt;And you don&amp;#x27;t automatically win the ones you don&amp;#x27;t lose. Some of those games are tied in the 9th and you&amp;#x27;re playing extras either way. The 5 wins is the ceiling of the argument, not a promise.&lt;/p&gt;
+&lt;p&gt;There&amp;#x27;s also a thing that cuts the other direction and nobody mentions it. Detroit has led after 7 in 57 games, which is 7th most in baseball. &lt;strong&gt;They keep getting into these positions.&lt;/strong&gt; The bullpen is what it is, but the rest of the team keeps handing it leads to lose, and a team that couldn&amp;#x27;t get there wouldn&amp;#x27;t even have the complaint.&lt;/p&gt;
+&lt;h2&gt;The narrower version&lt;/h2&gt;
+&lt;p&gt;Leads after 8 are the closer&amp;#x27;s problem more cleanly. Detroit&amp;#x27;s led after 8 in 54 games and lost 5. That&amp;#x27;s better. It&amp;#x27;s still 5.&lt;/p&gt;
+&lt;p&gt;Tonight it&amp;#x27;s Bibee against Anderson, and 5 of the 6 games against Cleveland this year came down to 1 or 2 runs. If this series turns on a 1 run game in the 8th, now you know what the number behind that feeling actually is.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Pick No. 3: Detroit released this pitcher in April 2024. Tuesday he starts against the team standing between them and October</title>
     <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-10-pick-03-anderson-returns.html"/>
