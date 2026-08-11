@@ -7,11 +7,96 @@
   <id>tag:detroitsportsreporter.com,2026:feed</id>
   <updated>2026-08-11T12:59:00Z</updated>
   <entry>
+    <title>The Wings got handed the hardest schedule in hockey, and it barely matters</title>
+    <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-11-red-wings-schedule-strength.html"/>
+    <id>tag:detroitsportsreporter.com,2026:journal/2026-08-11-red-wings-schedule-strength.html</id>
+    <updated>2026-08-11T12:59:00Z</updated>
+    <published>2026-08-11T12:59:00Z</published>
+    <summary type="text">Detroit plays 45 games against last season&#x27;s playoff teams, tied for most in the NHL. Then you look at the spread and the whole league fits inside 3.5 points of opponent quality. The number that actually should worry you is 92 points on a minus 17 goal differential.</summary>
+    <content type="html">&lt;p&gt;The Wings don&amp;#x27;t play until October 2, home to the Rangers. But the 2026-27 schedule is out, all 84 games of it, so I pulled the whole thing for all 32 teams and scored it. Nobody writes this piece in August, which is exactly why it&amp;#x27;s worth writing.&lt;/p&gt;
+&lt;p&gt;First thing worth knowing: it&amp;#x27;s 84 games now, not 82. That&amp;#x27;s what the league&amp;#x27;s own schedule feed says for every team.&lt;/p&gt;
+&lt;h2&gt;The headline, which I don&amp;#x27;t really believe&lt;/h2&gt;
+&lt;p&gt;Detroit plays &lt;strong&gt;45 games against teams that made the 2026 playoffs&lt;/strong&gt;. That&amp;#x27;s the most in the NHL. League average is 42.&lt;/p&gt;
+&lt;p&gt;Sounds brutal. Then you look at who else is on 45, and it&amp;#x27;s Florida and Toronto, and suddenly it isn&amp;#x27;t a curse, it&amp;#x27;s an address. Those are the 3 Atlantic teams that missed the playoffs last year, and the Atlantic sent 5 of its 8 to the postseason. Buffalo, Tampa, Montreal, Boston, Ottawa. You play each of your division 4 times, so that&amp;#x27;s 20 of your 45 before anybody sits down to make a schedule.&lt;/p&gt;
+&lt;p&gt;The formula does the rest. 4 games against each of the 7 division rivals, 3 against each of the 8 in the Metro, 2 against each of the 16 out west. 28 plus 24 plus 32 is 84. There&amp;#x27;s almost no room in there for the league to do anything to you.&lt;/p&gt;
+&lt;p&gt;Here&amp;#x27;s what that looks like when you put every team on the same axis. Average points their opponents earned last season, weighted by how often they meet:&lt;/p&gt;
+&lt;svg viewBox=&quot;0 0 640 176&quot; width=&quot;100%&quot; role=&quot;img&quot; aria-labelledby=&quot;nhl-sos-t&quot; style=&quot;max-width:640px;height:auto;font-family:ui-sans-serif,system-ui,-apple-system,&#x27;Segoe UI&#x27;,Roboto,sans-serif&quot;&gt;
+&lt;title id=&quot;nhl-sos-t&quot;&gt;Every NHL team&#x27;s 2026-27 schedule strength, plotted as average opponent points from last season. All 32 teams fall between 90.4 and 93.9, with Detroit at 93.2.&lt;/title&gt;
+&lt;text x=&quot;0&quot; y=&quot;16&quot; fill=&quot;var(--fg)&quot; font-size=&quot;13&quot; font-weight=&quot;600&quot;&gt;Every team&#x27;s 2026-27 schedule, on one axis&lt;/text&gt;
+&lt;text x=&quot;0&quot; y=&quot;34&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;Average points each team&#x27;s opponents earned last season. 32 dots. The whole league fits in 3.5 points.&lt;/text&gt;
+&lt;line x1=&quot;40&quot; y1=&quot;118&quot; x2=&quot;600&quot; y2=&quot;118&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
+&lt;line x1=&quot;40.0&quot; y1=&quot;118&quot; x2=&quot;40.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
+&lt;text x=&quot;40.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;90&lt;/text&gt;
+&lt;line x1=&quot;180.0&quot; y1=&quot;118&quot; x2=&quot;180.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
+&lt;text x=&quot;180.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;91&lt;/text&gt;
+&lt;line x1=&quot;320.0&quot; y1=&quot;118&quot; x2=&quot;320.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
+&lt;text x=&quot;320.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;92&lt;/text&gt;
+&lt;line x1=&quot;460.0&quot; y1=&quot;118&quot; x2=&quot;460.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
+&lt;text x=&quot;460.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;93&lt;/text&gt;
+&lt;line x1=&quot;600.0&quot; y1=&quot;118&quot; x2=&quot;600.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
+&lt;text x=&quot;600.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;94&lt;/text&gt;
+&lt;line x1=&quot;346.2&quot; y1=&quot;60&quot; x2=&quot;346.2&quot; y2=&quot;118&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;2&quot; stroke-dasharray=&quot;3 3&quot;/&gt;
+&lt;text x=&quot;346.2&quot; y=&quot;55&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;league average 92.19&lt;/text&gt;
+&lt;circle cx=&quot;585.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;TOR: 93.89&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;553.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;NYR: 93.67&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;545.0&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;FLA: 93.61&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;491.7&quot; cy=&quot;108&quot; r=&quot;6&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Detroit: 93.23, rank 4 of 32&lt;/title&gt;&lt;/circle&gt;
+&lt;line x1=&quot;491.7&quot; y1=&quot;72&quot; x2=&quot;491.7&quot; y2=&quot;101&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1&quot;/&gt;
+&lt;text x=&quot;491.7&quot; y=&quot;69&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--fg)&quot; font-size=&quot;11&quot; font-weight=&quot;700&quot;&gt;DET&lt;/text&gt;
+&lt;circle cx=&quot;486.7&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;NJD: 93.19&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;460.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;NYI: 93.00&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;453.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;CBJ: 92.95&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;445.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;OTT: 92.89&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;438.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;BOS: 92.85&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;433.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;WSH: 92.81&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;426.7&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;CHI: 92.76&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;413.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;PHI: 92.67&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;413.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;PIT: 92.67&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;398.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;MTL: 92.56&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;398.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;TBL: 92.56&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;378.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;BUF: 92.42&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;378.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;VAN: 92.42&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;360.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;WPG: 92.29&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;333.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;NSH: 92.10&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;333.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;STL: 92.10&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;313.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;CAR: 91.95&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;293.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;UTA: 91.81&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;251.7&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;CGY: 91.51&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;238.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;SEA: 91.42&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;213.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;MIN: 91.24&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;191.7&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;SJS: 91.08&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;165.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;LAK: 90.89&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;160.0&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;DAL: 90.86&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;151.7&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;ANA: 90.80&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;145.0&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;EDM: 90.75&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;131.7&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;VGK: 90.65&lt;/title&gt;&lt;/circle&gt;
+&lt;circle cx=&quot;100.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;COL: 90.43&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;0&quot; y=&quot;170&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;Detroit 93.23, rank 4 of 32. Hardest TOR 93.89, easiest COL 90.43.&lt;/text&gt;
+&lt;/svg&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Average opponent points&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Toronto, hardest&lt;/td&gt;&lt;td&gt;93.89&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NY Rangers&lt;/td&gt;&lt;td&gt;93.67&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Florida&lt;/td&gt;&lt;td&gt;93.61&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Detroit, 4th&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;93.23&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;League average&lt;/td&gt;&lt;td&gt;92.19&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edmonton&lt;/td&gt;&lt;td&gt;90.75&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Vegas&lt;/td&gt;&lt;td&gt;90.65&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Colorado, easiest&lt;/td&gt;&lt;td&gt;90.43&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Toughest schedule in the league to easiest is 3.5 points of opponent quality. Detroit sits about 1 point above average. Over 84 games that&amp;#x27;s real but it&amp;#x27;s not the story, and if the Wings miss by 2 points in April I don&amp;#x27;t think you get to point at this.&lt;/p&gt;
+&lt;h2&gt;The number in their favour is bigger than the one against&lt;/h2&gt;
+&lt;p&gt;This is the part I didn&amp;#x27;t expect. Detroit travels &lt;strong&gt;35,625 miles&lt;/strong&gt; next season, counting great circle distance between arenas and the trips home at each end. That&amp;#x27;s 4th least in the league. Only Pittsburgh, Buffalo and Philly move less.&lt;/p&gt;
+&lt;p&gt;League average is 42,464. Seattle does 51,973.&lt;/p&gt;
+&lt;p&gt;So the Wings will be about 6,800 miles fresher than a typical team and roughly 16,000 fresher than Seattle. In a sport where the whole conversation in March is about legs, that&amp;#x27;s a bigger edge than 1 point of opponent quality is a disadvantage.&lt;/p&gt;
+&lt;p&gt;The rest of the fatigue picture is unremarkable. 12 back-to-backs, which is right in the middle, and only 2 of those are the bad kind where they&amp;#x27;re on the second night and the other team&amp;#x27;s had at least 2 days off. Longest road trip is 5, longest homestand is 4. 42 home, 42 away.&lt;/p&gt;
+&lt;h2&gt;What should actually worry you&lt;/h2&gt;
+&lt;p&gt;92 points last season. 41-31-10. And a goal differential of &lt;strong&gt;minus 17&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Those don&amp;#x27;t normally go together. Fit points against goal differential across all 32 teams and the line is tight, 91% of the variation, typical miss under 4 points. Detroit finished &lt;strong&gt;5.0 points above&lt;/strong&gt; what its goals said it should have, 3rd most in the league behind San Jose and Montreal.&lt;/p&gt;
+&lt;p&gt;Now the honest version of that, because 3rd of 32 sounds worse than it is: the typical team misses the line by 3.9 points, so 5.0 is barely outside ordinary. It&amp;#x27;s not a scandal. It&amp;#x27;s a nudge.&lt;/p&gt;
+&lt;p&gt;But it&amp;#x27;s a nudge in the wrong direction, and the gap is what makes it sting. The last Eastern wild card was Ottawa at 99. Detroit had 92. That&amp;#x27;s 7 points short, and if you think even a few of those 92 were borrowed, the real climb is closer to 10 or 12.&lt;/p&gt;
+&lt;p&gt;You don&amp;#x27;t get 12 points out of a friendly travel map. You get it from scoring more than you give up, and 241 for and 258 against is a team that didn&amp;#x27;t.&lt;/p&gt;
+&lt;h2&gt;What I&amp;#x27;ll be watching&lt;/h2&gt;
+&lt;p&gt;Goal differential through American Thanksgiving. Not points, not the standings, not whatever a hot October does to everyone&amp;#x27;s mood. If they&amp;#x27;re plus by then, the schedule stuff above is noise and this is a playoff team. If they&amp;#x27;re 12-8-3 with a minus 6, that&amp;#x27;s last season again and the travel savings won&amp;#x27;t cover it.&lt;/p&gt;
+&lt;p&gt;I&amp;#x27;ll take the under on the schedule being the reason, either way.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Everything above comes from the NHL&amp;#x27;s public API: the 2026-27 schedule for all 32 clubs and the final 2025-26 standings. The script that derives every number here, including the chart, is &lt;code&gt;scripts/nhl_schedule.py&lt;/code&gt; in the repository. Arena coordinates were entered by hand because the league doesn&amp;#x27;t publish them, and travel is great circle miles between arenas, which isn&amp;#x27;t the same as flight miles.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>Somebody said the whole season is the blown saves. So I counted the leads instead.</title>
     <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-11-leads-that-got-away.html"/>
     <id>tag:detroitsportsreporter.com,2026:journal/2026-08-11-leads-that-got-away.html</id>
-    <updated>2026-08-11T12:59:00Z</updated>
-    <published>2026-08-11T12:59:00Z</published>
+    <updated>2026-08-11T12:58:00Z</updated>
+    <published>2026-08-11T12:58:00Z</published>
     <summary type="text">Detroit has led after 7 innings 57 times and lost 11 of those games. The league holds 90.2% of those leads. At that rate the Tigers would have about 5 more wins, which puts them in first place. The claim checks out.</summary>
     <content type="html">&lt;p&gt;Somebody on the Tigers sub put it about as plainly as it can be put: the whole season is that blown save number, and if it was 20 instead of 26 we&amp;#x27;d be in first. 25 people upvoted it. So I went and checked whether that&amp;#x27;s actually true.&lt;/p&gt;
 &lt;p&gt;Here&amp;#x27;s the thing about blown saves though. A blown save isn&amp;#x27;t a loss. You can blow 1 in the 8th and win in the 10th, and that still goes in the column. So counting them doesn&amp;#x27;t tell you what it cost. What tells you is the leads that turned into losses.&lt;/p&gt;
