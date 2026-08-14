@@ -82,19 +82,6 @@ pre code{background:none;padding:0}
 /* The standing, kept deliberately small. It is a reference a returning reader
    glances at, not the headline, and it sits above the board so the first thing
    on the page is the score rather than the newest call. His call 2026-08-14. */
-/* A grid, not flex-wrap. With 4 pills of different widths, wrapping decided
-   3-then-1, which reads as a broken row rather than a scoreboard. Fixed
-   columns make it 4 across or 2x2 and never anything else. His call
-   2026-08-14. */
-.recstrip{display:grid;grid-template-columns:repeat(4,1fr);gap:.4rem;
-  margin:0 0 .55rem;padding:0;list-style:none;font-size:.8rem}
-@media(max-width:40rem){.recstrip{grid-template-columns:repeat(2,1fr)}}
-.recstrip a{display:flex;align-items:center;justify-content:center;gap:.3rem;
-  text-decoration:none;color:var(--muted);border:1px solid var(--rule);
-  border-radius:999px;padding:.22rem .5rem;white-space:nowrap}
-.recstrip a:hover{border-color:var(--tc,var(--accent))}
-.recstrip .tm{color:var(--muted)}
-.recstrip strong{color:var(--fg);font-weight:600}
 .recnote{font-size:.8rem;color:var(--muted);margin:0 0 1.6rem}
 .teamnav{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .5rem;padding:0;list-style:none}
 .teamnav a{display:inline-flex;align-items:center;gap:.45rem;text-decoration:none;
@@ -103,6 +90,13 @@ pre code{background:none;padding:0}
 .teamnav a:hover{border-color:var(--tc,var(--accent))}
 .teamnav a[aria-current="page"]{border-color:var(--tc,var(--accent));
   box-shadow:inset 0 -2px 0 var(--tc,var(--accent))}
+/* With records in it the nav stops being a wrapping row of labels and becomes a
+   scoreboard, so it gets fixed columns: 4 across, 2x2 under 40rem, never the
+   3-then-1 that flex-wrap chose on its own. His call 2026-08-14. */
+.teamnav.withrec{display:grid;grid-template-columns:repeat(4,1fr);gap:.4rem}
+@media(max-width:40rem){.teamnav.withrec{grid-template-columns:repeat(2,1fr)}}
+.teamnav.withrec a{justify-content:center;white-space:nowrap;padding:.28rem .55rem}
+.teamnav .rec{margin-left:.45rem;color:var(--fg);font-weight:600;font-size:.95em}
 .dot{width:.55rem;height:.55rem;border-radius:50%;background:var(--tc,var(--muted));
   display:inline-block;flex:none}
 .teamrule{height:3px;border:0;border-radius:2px;background:var(--tc,var(--accent));
@@ -202,7 +196,7 @@ footer a{color:var(--muted)}
 <div class="navbar"><nav class="sitenav"><ul><li><a href="../index.html#picks">Picks</a></li><li><a href="../analysis.html">Analysis</a></li><li><a href="../index.html#teams">Teams</a></li><li><a href="../about.html">About</a></li></ul></nav></div>
 
 <main class="wrap">
-<a class="back" href="../analysis.html">&larr; All analysis</a><ul class="teamnav"><li><a href="../team/tigers/index.html" aria-current="page" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</a></li><li><a href="../team/lions/index.html" style="--tc:#0076B6"><span class="dot" style="--tc:#0076B6"></span>Lions</a></li><li><a href="../team/pistons/index.html" style="--tc:#C8102E"><span class="dot" style="--tc:#C8102E"></span>Pistons</a></li><li><a href="../team/redwings/index.html" style="--tc:#CE1126"><span class="dot" style="--tc:#CE1126"></span>Red Wings</a></li></ul><hr class="teamrule" style="--tc:#0C2340"><p class="meta"><time datetime="2026-08-13">August 13, 2026</time> &middot; Detroit Tigers</p><h2>Detroit&#x27;s outfield is 3 men down. Here&#x27;s what that&#x27;s actually worth, and it&#x27;s less than it sounds</h2><p>Riley Greene went on the 10-day injured list Wednesday with a right hamstring strain. He&#x27;s got 492 plate appearances and an .816 OPS, easily Detroit&#x27;s best outfielder, and he joins Matt Vierling and Kerry Carpenter, who are already there. 3 outfielders, on a team that&#x27;s half a game out of the last wild card spot with 42 to play.</p>
+<a class="back" href="../analysis.html">&larr; All analysis</a><ul class="teamnav withrec"><li><a href="../team/tigers/index.html" aria-current="page" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers<span class="rec">4-1</span></a></li><li><a href="../team/lions/index.html" style="--tc:#0076B6"><span class="dot" style="--tc:#0076B6"></span>Lions<span class="rec">none yet</span></a></li><li><a href="../team/pistons/index.html" style="--tc:#C8102E"><span class="dot" style="--tc:#C8102E"></span>Pistons<span class="rec">none yet</span></a></li><li><a href="../team/redwings/index.html" style="--tc:#CE1126"><span class="dot" style="--tc:#CE1126"></span>Red Wings<span class="rec">none yet</span></a></li></ul><hr class="teamrule" style="--tc:#0C2340"><p class="meta"><time datetime="2026-08-13">August 13, 2026</time> &middot; Detroit Tigers</p><h2>Detroit&#x27;s outfield is 3 men down. Here&#x27;s what that&#x27;s actually worth, and it&#x27;s less than it sounds</h2><p>Riley Greene went on the 10-day injured list Wednesday with a right hamstring strain. He&#x27;s got 492 plate appearances and an .816 OPS, easily Detroit&#x27;s best outfielder, and he joins Matt Vierling and Kerry Carpenter, who are already there. 3 outfielders, on a team that&#x27;s half a game out of the last wild card spot with 42 to play.</p>
 <p>Worth being accurate about how big a bat this is, because I nearly wasn&#x27;t. Greene is not Detroit&#x27;s best hitter. Among the 6 guys with 300 or more plate appearances he&#x27;s 3rd in OPS, behind Dillon Dingler at .844 and Kevin McGonigle at .819, and McGonigle has more plate appearances than he does. Greene&#x27;s the best outfielder on the roster and the 3rd best hitter, and those are different sentences.</p>
 <p>So it reads like the season just ended. I don&#x27;t think it does, and I want to show you why, including the part that argues the other way.</p>
 <h2>First, they didn&#x27;t all go down at once</h2>

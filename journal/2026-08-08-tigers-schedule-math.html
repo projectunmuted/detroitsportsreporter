@@ -82,19 +82,6 @@ pre code{background:none;padding:0}
 /* The standing, kept deliberately small. It is a reference a returning reader
    glances at, not the headline, and it sits above the board so the first thing
    on the page is the score rather than the newest call. His call 2026-08-14. */
-/* A grid, not flex-wrap. With 4 pills of different widths, wrapping decided
-   3-then-1, which reads as a broken row rather than a scoreboard. Fixed
-   columns make it 4 across or 2x2 and never anything else. His call
-   2026-08-14. */
-.recstrip{display:grid;grid-template-columns:repeat(4,1fr);gap:.4rem;
-  margin:0 0 .55rem;padding:0;list-style:none;font-size:.8rem}
-@media(max-width:40rem){.recstrip{grid-template-columns:repeat(2,1fr)}}
-.recstrip a{display:flex;align-items:center;justify-content:center;gap:.3rem;
-  text-decoration:none;color:var(--muted);border:1px solid var(--rule);
-  border-radius:999px;padding:.22rem .5rem;white-space:nowrap}
-.recstrip a:hover{border-color:var(--tc,var(--accent))}
-.recstrip .tm{color:var(--muted)}
-.recstrip strong{color:var(--fg);font-weight:600}
 .recnote{font-size:.8rem;color:var(--muted);margin:0 0 1.6rem}
 .teamnav{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .5rem;padding:0;list-style:none}
 .teamnav a{display:inline-flex;align-items:center;gap:.45rem;text-decoration:none;
@@ -103,6 +90,13 @@ pre code{background:none;padding:0}
 .teamnav a:hover{border-color:var(--tc,var(--accent))}
 .teamnav a[aria-current="page"]{border-color:var(--tc,var(--accent));
   box-shadow:inset 0 -2px 0 var(--tc,var(--accent))}
+/* With records in it the nav stops being a wrapping row of labels and becomes a
+   scoreboard, so it gets fixed columns: 4 across, 2x2 under 40rem, never the
+   3-then-1 that flex-wrap chose on its own. His call 2026-08-14. */
+.teamnav.withrec{display:grid;grid-template-columns:repeat(4,1fr);gap:.4rem}
+@media(max-width:40rem){.teamnav.withrec{grid-template-columns:repeat(2,1fr)}}
+.teamnav.withrec a{justify-content:center;white-space:nowrap;padding:.28rem .55rem}
+.teamnav .rec{margin-left:.45rem;color:var(--fg);font-weight:600;font-size:.95em}
 .dot{width:.55rem;height:.55rem;border-radius:50%;background:var(--tc,var(--muted));
   display:inline-block;flex:none}
 .teamrule{height:3px;border:0;border-radius:2px;background:var(--tc,var(--accent));
@@ -202,7 +196,7 @@ footer a{color:var(--muted)}
 <div class="navbar"><nav class="sitenav"><ul><li><a href="../index.html#picks">Picks</a></li><li><a href="../analysis.html">Analysis</a></li><li><a href="../index.html#teams">Teams</a></li><li><a href="../about.html">About</a></li></ul></nav></div>
 
 <main class="wrap">
-<a class="back" href="../analysis.html">&larr; All analysis</a><ul class="teamnav"><li><a href="../team/tigers/index.html" aria-current="page" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers</a></li><li><a href="../team/lions/index.html" style="--tc:#0076B6"><span class="dot" style="--tc:#0076B6"></span>Lions</a></li><li><a href="../team/pistons/index.html" style="--tc:#C8102E"><span class="dot" style="--tc:#C8102E"></span>Pistons</a></li><li><a href="../team/redwings/index.html" style="--tc:#CE1126"><span class="dot" style="--tc:#CE1126"></span>Red Wings</a></li></ul><hr class="teamrule" style="--tc:#0C2340"><p class="meta"><time datetime="2026-08-08">August 8, 2026</time> &middot; Detroit Tigers &middot; Analysis</p><h2>Fourth place, best team in the division, and half the schedule left against the teams ahead</h2><p>The AL Central standings this morning read like a joke with no punchline.</p>
+<a class="back" href="../analysis.html">&larr; All analysis</a><ul class="teamnav withrec"><li><a href="../team/tigers/index.html" aria-current="page" style="--tc:#0C2340"><span class="dot" style="--tc:#0C2340"></span>Tigers<span class="rec">4-1</span></a></li><li><a href="../team/lions/index.html" style="--tc:#0076B6"><span class="dot" style="--tc:#0076B6"></span>Lions<span class="rec">none yet</span></a></li><li><a href="../team/pistons/index.html" style="--tc:#C8102E"><span class="dot" style="--tc:#C8102E"></span>Pistons<span class="rec">none yet</span></a></li><li><a href="../team/redwings/index.html" style="--tc:#CE1126"><span class="dot" style="--tc:#CE1126"></span>Red Wings<span class="rec">none yet</span></a></li></ul><hr class="teamrule" style="--tc:#0C2340"><p class="meta"><time datetime="2026-08-08">August 8, 2026</time> &middot; Detroit Tigers &middot; Analysis</p><h2>Fourth place, best team in the division, and half the schedule left against the teams ahead</h2><p>The AL Central standings this morning read like a joke with no punchline.</p>
 <div class="scroll"><table><thead><tr><th>Team</th><th>Record</th><th>Run differential</th><th>Pythagorean record</th></tr></thead><tbody><tr><td>White Sox</td><td>59-56</td><td>+32</td><td>60.7-54.3</td></tr><tr><td>Guardians</td><td>58-59</td><td>-22</td><td>56.0-61.0</td></tr><tr><td>Twins</td><td>58-59</td><td>-33</td><td>55.4-61.6</td></tr><tr><td><strong>Tigers</strong></td><td><strong>56-60</strong></td><td><strong>+77</strong></td><td><strong>66.3-49.7</strong></td></tr><tr><td>Royals</td><td>48-69</td><td>-105</td><td>48.1-68.9</td></tr></tbody></table></div>
 <p><em>Standings, runs scored and runs allowed pulled from the MLB Stats API on 2026-08-08. Pythagorean record uses the standard 1.83 exponent.</em></p>
 <p>Read down the differential column. The three teams ahead of Detroit have outscored their opponents by a combined <strong>negative 23 runs</strong>. The team in fourth place has outscored its opponents by <strong>77</strong>. The next best mark in the division belongs to the first-place White Sox at +32, a full 45 runs behind, and the Tigers are the only team here that has been outright good at baseball by the one measure that does not care about sequencing.</p>
