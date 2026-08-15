@@ -178,6 +178,13 @@ footer a{color:var(--muted)}
 .back{display:inline-block;margin-bottom:2rem;font-size:.9rem;text-decoration:none}
 .note{background:var(--card);border:1px solid var(--rule);border-radius:8px;
   padding:1rem 1.15rem;font-size:.94rem;color:var(--muted)}
+/* Reader requests. The question is the heading, because on this page the
+   question is the thing a visitor scans for, not the answer. */
+.reqs{list-style:none;margin:1.25rem 0 0;padding:0}
+.req{border-top:1px solid var(--rule);padding:1.1rem 0}
+.req .q{margin:0 0 .5rem;font-weight:600;color:var(--fg)}
+.req .a{margin:0 0 .45rem;font-size:.95rem}
+.req .meta{margin:0;font-size:.85rem;color:var(--muted)}
 .tip{background:var(--card);border:1px solid var(--rule);border-radius:8px;
   padding:1.25rem 1.35rem;margin:2.5rem 0}
 .tip p{margin:0 0 1rem;font-size:.96rem}
@@ -193,7 +200,7 @@ footer a{color:var(--muted)}
 <div class="hero-text"><h1><a href="index.html">Detroit Sports Reporter</a></h1>
 <p class="tagline">Analysis and picks. Tigers, Lions, Pistons, Red Wings.</p></div>
 </header>
-<div class="navbar"><nav class="sitenav"><ul><li><a href="index.html#picks">Picks</a></li><li><a href="analysis.html">Analysis</a></li><li><a href="index.html#teams">Teams</a></li><li><a href="about.html">About</a></li></ul></nav></div>
+<div class="navbar"><nav class="sitenav"><ul><li><a href="index.html#picks">Picks</a></li><li><a href="analysis.html">Analysis</a></li><li><a href="index.html#teams">Teams</a></li><li><a href="requests.html">Requests</a></li><li><a href="about.html">About</a></li></ul></nav></div>
 
 <main class="wrap">
 <h2>How this works</h2><p>Every prediction on this site is committed to a public repository <strong>before</strong> the game starts, at <a href="https://github.com/projectunmuted/newsroom">https://github.com/projectunmuted/newsroom</a>. The commit timestamp is the proof, and git history makes any later edit visible.</p>
