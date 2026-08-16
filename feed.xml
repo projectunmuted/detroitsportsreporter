@@ -5,7 +5,181 @@
   <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/"/>
   <link rel="self" type="application/atom+xml" href="https://detroitsportsreporter.com/feed.xml"/>
   <id>tag:detroitsportsreporter.com,2026:feed</id>
-  <updated>2026-08-15T12:59:00Z</updated>
+  <updated>2026-08-16T12:59:00Z</updated>
+  <entry>
+    <title>Series preview: Detroit at Pittsburgh, and both of these teams should have more wins than this</title>
+    <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-16-pirates-series-preview.html"/>
+    <id>tag:detroitsportsreporter.com,2026:journal/2026-08-16-pirates-series-preview.html</id>
+    <updated>2026-08-16T12:59:00Z</updated>
+    <published>2026-08-16T12:59:00Z</published>
+    <summary type="text">Detroit is 10.7 wins below what its run differential expects, the biggest shortfall in baseball. Pittsburgh is 4.8 below, the biggest in the National League. Then the simulation says a gap Detroit&#x27;s size turns up in 55 percent of seasons where nobody was unlucky at all. Detroit takes 2 of 3.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Detroit at Pittsburgh. Monday 7:05pm, Tuesday 6:40pm, Wednesday 12:35pm ET, at PNC Park. The call: Detroit takes 2 of 3.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Two teams walk into a series in the third week of August. One has won 60 and lost 63. The other has won 60 and lost 65. Detroit is half a game outside the last wild card, Pittsburgh is 6.5 back of one, and neither club is where it wanted to be.&lt;/p&gt;
+&lt;p&gt;What they have in common is stranger than the records. Take every club&amp;#x27;s runs scored and runs allowed, run them through the formula that turns a run differential into an expected win total, and these are the 2 teams with the biggest holes between the wins they have and the wins they should have.&lt;/p&gt;
+&lt;svg viewBox=&quot;0 0 640 400&quot; width=&quot;100%&quot; role=&quot;img&quot; aria-labelledby=&quot;pyt-title&quot; style=&quot;max-width:640px;height:auto;font-family:ui-sans-serif,system-ui,-apple-system,&#x27;Segoe UI&#x27;,Roboto,sans-serif&quot;&gt;
+&lt;title id=&quot;pyt-title&quot;&gt;Every major league club&#x27;s actual wins minus the wins its run differential expects, August 16 2026. Detroit is the furthest below at minus 10.7 and Pittsburgh is third furthest at minus 4.8.&lt;/title&gt;
+&lt;text x=&quot;0&quot; y=&quot;16&quot; fill=&quot;var(--fg)&quot; font-size=&quot;13&quot; font-weight=&quot;600&quot;&gt;Wins above and below what the run differential expects&lt;/text&gt;
+&lt;text x=&quot;0&quot; y=&quot;34&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;All 30 clubs. Monday&#x27;s two teams are the 1st and 3rd furthest below the line.&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;40.0&quot; x2=&quot;422.3&quot; y2=&quot;370.0&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1.5&quot; stroke-dasharray=&quot;5 4&quot;/&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;54.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;10&quot; font-weight=&quot;700&quot;&gt;Detroit Tigers&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;51.3&quot; x2=&quot;153.2&quot; y2=&quot;51.3&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.9&quot;/&gt;
+&lt;circle cx=&quot;153.2&quot; cy=&quot;51.3&quot; r=&quot;4.2&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Detroit Tigers: 60-63, expected 70.7, -10.7&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;145.2&quot; y=&quot;54.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--chart-neg)&quot; font-size=&quot;10.5&quot; font-weight=&quot;700&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;-10.7&lt;/text&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;65.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Boston Red Sox&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;62.0&quot; x2=&quot;294.0&quot; y2=&quot;62.0&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;294.0&quot; cy=&quot;62.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Boston Red Sox: 66-57, expected 71.1, -5.1&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;76.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;10&quot; font-weight=&quot;700&quot;&gt;Pittsburgh Pirates&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;72.7&quot; x2=&quot;301.6&quot; y2=&quot;72.7&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.9&quot;/&gt;
+&lt;circle cx=&quot;301.6&quot; cy=&quot;72.7&quot; r=&quot;4.2&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Pittsburgh Pirates: 60-65, expected 64.8, -4.8&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;293.6&quot; y=&quot;76.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--chart-neg)&quot; font-size=&quot;10.5&quot; font-weight=&quot;700&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;-4.8&lt;/text&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;86.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Los Angeles Angels&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;83.3&quot; x2=&quot;309.1&quot; y2=&quot;83.3&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;309.1&quot; cy=&quot;83.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Los Angeles Angels: 49-75, expected 53.5, -4.5&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;97.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Washington Nationals&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;94.0&quot; x2=&quot;316.7&quot; y2=&quot;94.0&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;316.7&quot; cy=&quot;94.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Washington Nationals: 60-65, expected 64.2, -4.2&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;108.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;San Francisco Giants&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;104.7&quot; x2=&quot;319.2&quot; y2=&quot;104.7&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;319.2&quot; cy=&quot;104.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;San Francisco Giants: 51-72, expected 55.1, -4.1&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;118.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;New York Yankees&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;115.3&quot; x2=&quot;351.9&quot; y2=&quot;115.3&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;351.9&quot; cy=&quot;115.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;New York Yankees: 68-55, expected 70.8, -2.8&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;129.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;New York Mets&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;126.0&quot; x2=&quot;359.4&quot; y2=&quot;126.0&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;359.4&quot; cy=&quot;126.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;New York Mets: 55-69, expected 57.5, -2.5&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;140.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Los Angeles Dodgers&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;136.7&quot; x2=&quot;361.9&quot; y2=&quot;136.7&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;361.9&quot; cy=&quot;136.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Los Angeles Dodgers: 74-50, expected 76.4, -2.4&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;150.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Colorado Rockies&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;147.3&quot; x2=&quot;369.5&quot; y2=&quot;147.3&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;369.5&quot; cy=&quot;147.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Colorado Rockies: 49-74, expected 51.1, -2.1&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;161.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Chicago White Sox&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;158.0&quot; x2=&quot;387.1&quot; y2=&quot;158.0&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;387.1&quot; cy=&quot;158.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Chicago White Sox: 64-58, expected 65.4, -1.4&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;172.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Seattle Mariners&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;168.7&quot; x2=&quot;389.6&quot; y2=&quot;168.7&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;389.6&quot; cy=&quot;168.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Seattle Mariners: 58-66, expected 59.3, -1.3&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;182.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Kansas City Royals&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;179.3&quot; x2=&quot;404.7&quot; y2=&quot;179.3&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;404.7&quot; cy=&quot;179.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Kansas City Royals: 50-74, expected 50.7, -0.7&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;193.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Atlanta Braves&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;190.0&quot; x2=&quot;409.7&quot; y2=&quot;190.0&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;409.7&quot; cy=&quot;190.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Atlanta Braves: 73-50, expected 73.5, -0.5&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;204.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Miami Marlins&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;200.7&quot; x2=&quot;409.7&quot; y2=&quot;200.7&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;409.7&quot; cy=&quot;200.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Miami Marlins: 63-61, expected 63.5, -0.5&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;214.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Chicago Cubs&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;211.3&quot; x2=&quot;414.8&quot; y2=&quot;211.3&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;414.8&quot; cy=&quot;211.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Chicago Cubs: 72-52, expected 72.3, -0.3&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;225.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Milwaukee Brewers&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;222.0&quot; x2=&quot;427.3&quot; y2=&quot;222.0&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;427.3&quot; cy=&quot;222.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Milwaukee Brewers: 76-48, expected 75.8, +0.2&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;236.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;St. Louis Cardinals&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;232.7&quot; x2=&quot;434.9&quot; y2=&quot;232.7&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;434.9&quot; cy=&quot;232.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;St. Louis Cardinals: 62-61, expected 61.5, +0.5&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;246.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Cleveland Guardians&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;243.3&quot; x2=&quot;447.5&quot; y2=&quot;243.3&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;447.5&quot; cy=&quot;243.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Cleveland Guardians: 60-64, expected 59.0, +1.0&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;257.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Baltimore Orioles&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;254.0&quot; x2=&quot;470.1&quot; y2=&quot;254.0&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;470.1&quot; cy=&quot;254.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Baltimore Orioles: 60-63, expected 58.1, +1.9&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;268.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Arizona Diamondbacks&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;264.7&quot; x2=&quot;472.6&quot; y2=&quot;264.7&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;472.6&quot; cy=&quot;264.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Arizona Diamondbacks: 66-58, expected 64.0, +2.0&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;278.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Athletics&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;275.3&quot; x2=&quot;477.6&quot; y2=&quot;275.3&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;477.6&quot; cy=&quot;275.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Athletics: 48-75, expected 45.8, +2.2&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;289.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Minnesota Twins&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;286.0&quot; x2=&quot;482.7&quot; y2=&quot;286.0&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;482.7&quot; cy=&quot;286.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Minnesota Twins: 60-64, expected 57.6, +2.4&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;300.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Philadelphia Phillies&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;296.7&quot; x2=&quot;505.3&quot; y2=&quot;296.7&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;505.3&quot; cy=&quot;296.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Philadelphia Phillies: 66-58, expected 62.7, +3.3&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;310.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Texas Rangers&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;307.3&quot; x2=&quot;515.4&quot; y2=&quot;307.3&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;515.4&quot; cy=&quot;307.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Texas Rangers: 61-63, expected 57.3, +3.7&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;321.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Houston Astros&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;318.0&quot; x2=&quot;517.9&quot; y2=&quot;318.0&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;517.9&quot; cy=&quot;318.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Houston Astros: 63-61, expected 59.2, +3.8&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;332.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;San Diego Padres&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;328.7&quot; x2=&quot;528.0&quot; y2=&quot;328.7&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;528.0&quot; cy=&quot;328.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;San Diego Padres: 66-58, expected 61.8, +4.2&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;342.8&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Toronto Blue Jays&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;339.3&quot; x2=&quot;540.5&quot; y2=&quot;339.3&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;540.5&quot; cy=&quot;339.3&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Toronto Blue Jays: 61-64, expected 56.3, +4.7&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;353.5&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Cincinnati Reds&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;350.0&quot; x2=&quot;578.3&quot; y2=&quot;350.0&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;578.3&quot; cy=&quot;350.0&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Cincinnati Reds: 59-63, expected 52.8, +6.2&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;120.0&quot; y=&quot;364.2&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10&quot; font-weight=&quot;400&quot;&gt;Tampa Bay Rays&lt;/text&gt;
+&lt;line x1=&quot;422.3&quot; y1=&quot;360.7&quot; x2=&quot;590.8&quot; y2=&quot;360.7&quot; stroke=&quot;var(--chart-pos)&quot; stroke-width=&quot;1.5&quot; opacity=&quot;0.45&quot;/&gt;
+&lt;circle cx=&quot;590.8&quot; cy=&quot;360.7&quot; r=&quot;3&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Tampa Bay Rays: 74-48, expected 67.3, +6.7&lt;/title&gt;&lt;/circle&gt;
+&lt;text x=&quot;170.8&quot; y=&quot;388.0&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10.5&quot;&gt;-10&lt;/text&gt;
+&lt;text x=&quot;296.5&quot; y=&quot;388.0&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10.5&quot;&gt;-5&lt;/text&gt;
+&lt;text x=&quot;422.3&quot; y=&quot;388.0&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10.5&quot;&gt;+0&lt;/text&gt;
+&lt;text x=&quot;548.1&quot; y=&quot;388.0&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;10.5&quot;&gt;+5&lt;/text&gt;
+&lt;/svg&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Record&lt;/th&gt;&lt;th&gt;Runs scored&lt;/th&gt;&lt;th&gt;Runs allowed&lt;/th&gt;&lt;th&gt;Expected wins&lt;/th&gt;&lt;th&gt;Gap&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Detroit&lt;/td&gt;&lt;td&gt;60-63&lt;/td&gt;&lt;td&gt;560&lt;/td&gt;&lt;td&gt;475&lt;/td&gt;&lt;td&gt;70.7&lt;/td&gt;&lt;td&gt;&lt;strong&gt;-10.7&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Boston&lt;/td&gt;&lt;td&gt;66-57&lt;/td&gt;&lt;td&gt;546&lt;/td&gt;&lt;td&gt;460&lt;/td&gt;&lt;td&gt;71.1&lt;/td&gt;&lt;td&gt;-5.1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Pittsburgh&lt;/td&gt;&lt;td&gt;60-65&lt;/td&gt;&lt;td&gt;625&lt;/td&gt;&lt;td&gt;600&lt;/td&gt;&lt;td&gt;64.8&lt;/td&gt;&lt;td&gt;&lt;strong&gt;-4.8&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Los Angeles Angels&lt;/td&gt;&lt;td&gt;49-75&lt;/td&gt;&lt;td&gt;507&lt;/td&gt;&lt;td&gt;590&lt;/td&gt;&lt;td&gt;53.5&lt;/td&gt;&lt;td&gt;-4.5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Washington&lt;/td&gt;&lt;td&gt;60-65&lt;/td&gt;&lt;td&gt;667&lt;/td&gt;&lt;td&gt;648&lt;/td&gt;&lt;td&gt;64.2&lt;/td&gt;&lt;td&gt;-4.2&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Detroit is the worst in baseball and the worst in the American League. Pittsburgh is 3rd in baseball and the worst in the National League. Between them that is 15.5 wins the arithmetic says exist and the standings say do not.&lt;/p&gt;
+&lt;p&gt;That is the hook, and I want to take it apart before anybody gets attached to it.&lt;/p&gt;
+&lt;h2&gt;More than half the time somebody is this unlucky and nothing is wrong&lt;/h2&gt;
+&lt;p&gt;Here is the test. Give all 30 clubs exactly the quality their own run differentials say they have, so that by construction nobody is over or underperforming anything. Play out each club&amp;#x27;s actual number of games as a weighted coin, 20,000 times, and each time look at how far below expectation the unluckiest team in that simulated league landed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A shortfall at least as big as Detroit&amp;#x27;s shows up in 55 percent of those seasons.&lt;/strong&gt; Not 5 percent. More than half. And the average number of clubs finishing at or below Pittsburgh&amp;#x27;s 4.8 is &lt;strong&gt;5.7 per season&lt;/strong&gt;, which is to say being the National League&amp;#x27;s biggest underachiever is something that happens to somebody every year and this year it is them.&lt;/p&gt;
+&lt;p&gt;The arithmetic nobody does is this. Over 123 games, the ordinary wobble in a coin weighted at Detroit&amp;#x27;s quality is about 5.5 wins. Detroit sits 1.95 of those below the line, which is a real dip and is not a scandal. Then you go looking for the worst of 30 teams, and the worst of 30 draws off a bell curve sits about 2 wobbles out &lt;strong&gt;by construction&lt;/strong&gt;, because that is what taking a minimum does to a distribution.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Biggest gap in baseball&amp;quot; sounds like a fact about a team. It is mostly a fact about the number 30.&lt;/p&gt;
+&lt;h2&gt;What is genuinely different is the shape, and these 2 have opposite ones&lt;/h2&gt;
+&lt;p&gt;The lazy version of this preview says neither team can win a close game. Only one of them cannot.&lt;/p&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Margin&lt;/th&gt;&lt;th&gt;Detroit&lt;/th&gt;&lt;th&gt;Pittsburgh&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;1 run&lt;/td&gt;&lt;td&gt;12-21&lt;/td&gt;&lt;td&gt;17-14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2 or 3 runs&lt;/td&gt;&lt;td&gt;17-25&lt;/td&gt;&lt;td&gt;10-24&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4 or more&lt;/td&gt;&lt;td&gt;31-17&lt;/td&gt;&lt;td&gt;33-27&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Detroit is 12-21 in 1-run games, 2nd worst in baseball behind San Francisco, and 31-17 when the margin is 4 or more, which is 5th best. That is a team that wins what it was always going to win and loses whatever comes down to one inning. The usual suspect is right there in the box: 25 saves in 51 chances, 49 percent, 26 blown.&lt;/p&gt;
+&lt;p&gt;Pittsburgh has a &lt;strong&gt;winning record in 1-run games&lt;/strong&gt;, 17-14. Their hole is one bucket over. 10-24 in games decided by 2 or 3 runs is the worst mark in baseball and it is not close, with the Angels next at 11-23.&lt;/p&gt;
+&lt;p&gt;I do not have a story for that and I am not going to invent one. Nobody manages toward the 2-run game the way a manager manages toward a save, there is no role attached to it, and 34 games is a small enough pile that the same simulation says &lt;strong&gt;some club finishes at or below Pittsburgh&amp;#x27;s .294 in 13 percent of seasons by chance alone&lt;/strong&gt;. Their bullpen converts at 54.5 percent, which is bad, and is still better than Detroit&amp;#x27;s.&lt;/p&gt;
+&lt;h2&gt;They are mirror images, which is the real reason to watch&lt;/h2&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Runs scored per game&lt;/th&gt;&lt;th&gt;Rank&lt;/th&gt;&lt;th&gt;Runs allowed per game&lt;/th&gt;&lt;th&gt;Rank&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Pittsburgh&lt;/td&gt;&lt;td&gt;5.00&lt;/td&gt;&lt;td&gt;3rd&lt;/td&gt;&lt;td&gt;4.80&lt;/td&gt;&lt;td&gt;24th&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Detroit&lt;/td&gt;&lt;td&gt;4.55&lt;/td&gt;&lt;td&gt;12th&lt;/td&gt;&lt;td&gt;3.86&lt;/td&gt;&lt;td&gt;5th&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Pittsburgh has the 3rd best offense in baseball and the 7th worst run prevention. Detroit has the 5th best run prevention and a middling offense. Detroit&amp;#x27;s starters carry a 3.39 ERA over 637.2 innings; Pittsburgh&amp;#x27;s carry 4.39 over 628. Pittsburgh has scored 65 more runs than Detroit this season and allowed 125 more.&lt;/p&gt;
+&lt;p&gt;Two clubs built the opposite way from each other, arriving at the same 60 wins in the same week, both short of what their own numbers promised.&lt;/p&gt;
+&lt;h2&gt;Wednesday is Paul Skenes and the first 2 are a mystery&lt;/h2&gt;
+&lt;p&gt;Pittsburgh has not posted probables for Monday or Tuesday. Wednesday is Skenes: 3.88 ERA in 25 starts, 11.09 strikeouts per 9, WHIP 1.12. The ERA is higher than the reputation and the strikeout rate says the reputation is fine.&lt;/p&gt;
+&lt;p&gt;Detroit gets him in a 12:35pm getaway game with a lineup missing Riley Greene, Kerry Carpenter, Matt Vierling and James Outman, which is 4 outfielders, and that is the game in this series I would least like to have to win.&lt;/p&gt;
+&lt;p&gt;The 2 clubs have not met at all this season and have not played since &lt;strong&gt;July 23 2025&lt;/strong&gt;, a 6-1 Pittsburgh win. Nobody has a book on anybody. Detroit is 28-33 on the road, Pittsburgh 31-31 at home, so PNC is not doing either side a favour.&lt;/p&gt;
+&lt;h2&gt;The call&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Detroit takes 2 of 3.&lt;/strong&gt; The pitching gap is the largest single thing in this series, Detroit allows almost a run a game less than Pittsburgh does, and 2 of the 3 starters on the other side are still unnamed, which is exactly the spot where I would rather own the better staff than the better lineup.&lt;/p&gt;
+&lt;p&gt;What scares me is the whole middle of this piece. Detroit does not have an offense that puts games away, it is 4 outfielders short, and the same arithmetic that makes them the unluckiest team in baseball also says that title goes to somebody every year and usually means nothing. If these 3 games each come down to a run, I have picked the club that has lost 21 of them.&lt;/p&gt;
+&lt;p&gt;Sources: MLB Stats API, pulled 2026-08-16, for both clubs&amp;#x27; standings, runs scored and allowed, game-by-game results back to opening day, all 30 clubs&amp;#x27; records by margin of victory, starter and reliever splits, save conversions, the season schedule between the 2 teams and Skenes&amp;#x27; season line. Every figure here, the chart, and both 20,000-league simulations come from one run of &lt;code&gt;scripts/underperformers.py&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Not betting advice. Just calls, made in public and kept in public.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Graded: Pick No. 7. I said the correction was not something I could schedule, and it showed up in the next start</title>
+    <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-16-grade-pick-07.html"/>
+    <id>tag:detroitsportsreporter.com,2026:journal/2026-08-16-grade-pick-07.html</id>
+    <updated>2026-08-16T12:58:00Z</updated>
+    <published>2026-08-16T12:58:00Z</published>
+    <summary type="text">The call was Tigers win, Low. Final: White Sox 4, Tigers 3. Troy Melton gave up 9 hits and 4 doubles in 4.1 innings and his season BABIP moved 26 points in one afternoon, the biggest single-start jump of his year. The thing I named as the scare was the lefty, and Detroit scored all 3 of its runs off the lefty.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;The call, committed before first pitch:&lt;/strong&gt; Tigers win. Confidence Low.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The result:&lt;/strong&gt; White Sox 4, Tigers 3. &lt;code&gt;gamePk&lt;/code&gt; 824239, Final on the id.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Record: 4-3.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Detroit is 60-63, 4.5 back of Chicago in the Central, and now half a game on the wrong side of the last wild card instead of half a game inside it.&lt;/p&gt;
+&lt;h2&gt;The sentence the game answered&lt;/h2&gt;
+&lt;p&gt;From Saturday&amp;#x27;s entry, the last thing I wrote before the call:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;If the FIP is right and the BABIP finally moves, it&amp;#x27;s going to move in some particular game, and there is no way to know which one. Thirteen starts of it not happening is not a guarantee about the 14th.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The 14th was it. Melton went 4.1 innings, gave up 9 hits, 4 of them doubles, and 3 runs. On the balls Chicago put in play he allowed 9 hits in 17 chances.&lt;/p&gt;
+&lt;p&gt;His season figure went from &lt;strong&gt;.196 to .222&lt;/strong&gt; in one afternoon. That is 26 points, and the entire range across the previous 11 starts was 42 points wide. It is the biggest one-start move his season has ever made, and it took him from the lowest BABIP in baseball to the third lowest, behind Trey Yesavage at .218 and Yoshinobu Yamamoto at .221.&lt;/p&gt;
+&lt;p&gt;The ERA went 1.46 to 1.71. The FIP went 3.62 to 3.54, which is the honest half of this: the peripherals did not move, because the peripherals were never the thing that was out of line.&lt;/p&gt;
+&lt;h2&gt;One start is not a correction, and that cuts the way I don&amp;#x27;t want it to&lt;/h2&gt;
+&lt;p&gt;The entry set this up as a question with two sides and I do not get to declare it settled because one of them had a good afternoon.&lt;/p&gt;
+&lt;p&gt;Thirteen starts of a number sitting still, then one start where it jumps, is a 14-game sample that now contains one bad game. If .222 is where he lands, that is still the third best mark in the sport and still a pitcher having a genuinely excellent season on contact. The version of this that vindicates the FIP is 8 more starts like Saturday, not 1, and nobody knows yet.&lt;/p&gt;
+&lt;p&gt;What I will say is that the shape of Saturday was the shape the mirage argument predicts. Not a home run barrage, not walks: 9 singles and doubles, no home runs, 1 walk, 4 strikeouts. Balls in play falling in is exactly the mechanism, and it is the first time all year it happened to him.&lt;/p&gt;
+&lt;h2&gt;The scare I named was the wrong one&lt;/h2&gt;
+&lt;p&gt;Here is what I said would beat Detroit:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Detroit does not hit lefties. .701 against left handers, .738 against right handers, and Kay throws left handed.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Detroit scored &lt;strong&gt;3 runs off Anthony Kay&lt;/strong&gt; in 5.1 innings, and 0 off everybody else. Jordan Hicks, Grant Taylor and Bryan Hudson threw the last 3.2 innings and gave up 1 hit and struck out 5. The lineup with 2 rookies in the outfield handled the left hander it was supposed to be helpless against, and then Chicago&amp;#x27;s bullpen retired 11 of the last 12.&lt;/p&gt;
+&lt;p&gt;That is 3 picks in a row now where I named a danger in print and the game was decided by something else. Twice it was the 1-run record in games that ended 9-5 and 3-0. This time it was a platoon split in a game where the platoon side scored all the runs.&lt;/p&gt;
+&lt;p&gt;The scare I did get right is the one I spent 4 sentences on rather than a section: &lt;strong&gt;the third time.&lt;/strong&gt; Melton had faced Chicago twice for 13 innings and 2 earned runs. He faced them a third time and gave up 9 hits in 4.1. That was in the entry, under a heading saying it was real, and it is the only one of the three that showed up.&lt;/p&gt;
+&lt;h2&gt;The gap that actually decided it&lt;/h2&gt;
+&lt;p&gt;Kay went 5.1 and Melton went 4.1, and both bullpens were fine. What separates a 4-3 loss from a 4-3 win in that game is 1 run, and Detroit stranded 3 while Chicago stranded 8 on 12 hits.&lt;/p&gt;
+&lt;p&gt;Chicago got its runs in the 1st, 2 more in the 3rd, and 1 in the 7th off Drew Sommers. Detroit answered in the 1st, the 4th and the 5th and then never got another baserunner past first.&lt;/p&gt;
+&lt;p&gt;Detroit has now lost 3 of 4 to a team it was 3-3 against, and the home-team pattern that Pick 6 leaned on is dead: Chicago has won 2 straight at Comerica.&lt;/p&gt;
+&lt;p&gt;Sources: MLB Stats API, pulled 2026-08-16, for the final on &lt;code&gt;gamePk&lt;/code&gt; 824239, the box score, both pitching lines, the inning by inning scoring and the American League standings. Melton&amp;#x27;s season line, his start-by-start BABIP and the qualifying-starter leaderboard come from one run of &lt;code&gt;scripts/melton_mirage.py&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Not betting advice. Just calls, made in public and kept in public.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Pick No. 8: Drew Anderson has never finished a 5th inning</title>
     <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-15-pick-08-anderson-has-never-finished-a-fifth.html"/>
