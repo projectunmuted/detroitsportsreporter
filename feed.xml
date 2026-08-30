@@ -5,7 +5,97 @@
   <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/"/>
   <link rel="self" type="application/atom+xml" href="https://detroitsportsreporter.com/feed.xml"/>
   <id>tag:detroitsportsreporter.com,2026:feed</id>
-  <updated>2026-08-29T12:59:00Z</updated>
+  <updated>2026-08-30T12:59:00Z</updated>
+  <entry>
+    <title>Series preview: Minnesota has allowed 156 more runs than Detroit and is still ahead of them in the standings</title>
+    <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-30-twins-series-preview.html"/>
+    <id>tag:detroitsportsreporter.com,2026:journal/2026-08-30-twins-series-preview.html</id>
+    <updated>2026-08-30T12:59:00Z</updated>
+    <published>2026-08-30T12:59:00Z</published>
+    <summary type="text">Detroit is 63-72 having allowed 525 runs. Minnesota is 64-72 having allowed 681. The whole difference is what happens in a one-run game: Detroit is 13-23 in them and has converted 27 of 55 save chances, 2nd worst in baseball. Monday: Tigers win, Low. The series: Detroit takes 2 of 3.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Detroit at Minnesota. Monday, Tuesday and Wednesday, all 7:40pm ET at Target Field. Monday: Tigers win. The series: Detroit takes 2 of 3.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here are 2 clubs separated by half a game.&lt;/p&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Record&lt;/th&gt;&lt;th&gt;Runs scored&lt;/th&gt;&lt;th&gt;Runs allowed&lt;/th&gt;&lt;th&gt;Diff&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Minnesota&lt;/td&gt;&lt;td&gt;64-72&lt;/td&gt;&lt;td&gt;621&lt;/td&gt;&lt;td&gt;681&lt;/td&gt;&lt;td&gt;&lt;strong&gt;-60&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Detroit&lt;/td&gt;&lt;td&gt;63-72&lt;/td&gt;&lt;td&gt;595&lt;/td&gt;&lt;td&gt;525&lt;/td&gt;&lt;td&gt;&lt;strong&gt;+70&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;156 runs of separation in run prevention, and Minnesota is the one in front. Half a game, with Detroit holding a game in hand, so it&amp;#x27;s very nearly nothing, and both of these teams have played themselves out of the race anyway. But a 130 run swing in differential should buy more than nothing.&lt;/p&gt;
+&lt;p&gt;It buys nothing here, and the reason is the thing that has defined Detroit&amp;#x27;s whole season.&lt;/p&gt;
+&lt;h2&gt;The division is normal. Detroit isn&amp;#x27;t.&lt;/h2&gt;
+&lt;svg viewBox=&quot;0 0 640 238&quot; width=&quot;100%&quot; role=&quot;img&quot; aria-labelledby=&quot;pythag-title&quot; style=&quot;max-width:640px;height:auto;font-family:ui-sans-serif,system-ui,-apple-system,&#x27;Segoe UI&#x27;,Roboto,sans-serif&quot;&gt;
+&lt;title id=&quot;pythag-title&quot;&gt;Wins above or below Pythagorean expectation, one division&lt;/title&gt;
+&lt;text x=&quot;0&quot; y=&quot;16&quot; fill=&quot;var(--fg)&quot; font-size=&quot;13&quot; font-weight=&quot;600&quot;&gt;Wins above or below expectation&lt;/text&gt;
+&lt;text x=&quot;0&quot; y=&quot;34&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;Based on runs scored and allowed. Zero means the record matches the run differential.&lt;/text&gt;
+&lt;line x1=&quot;526.6&quot; y1=&quot;40&quot; x2=&quot;526.6&quot; y2=&quot;210.0&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;2&quot;/&gt;
+&lt;text x=&quot;106&quot; y=&quot;61.0&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12.5&quot; font-weight=&quot;400&quot;&gt;Twins&lt;/text&gt;
+&lt;path d=&quot;M528.6136065926484,46H576.8482946120839A4.0,4.0 0 0 1 580.8482946120839,50.0V64.0A4.0,4.0 0 0 1 576.8482946120839,68H528.6136065926484Z&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Twins: 64-72, expected 62.3 wins from 621 runs scored and 681 allowed (+1.7 wins)&lt;/title&gt;&lt;/path&gt;
+&lt;text x=&quot;588.8&quot; y=&quot;61.0&quot; text-anchor=&quot;start&quot; fill=&quot;var(--muted)&quot; font-size=&quot;12&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;+1.7&lt;/text&gt;
+&lt;text x=&quot;106&quot; y=&quot;95.0&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12.5&quot; font-weight=&quot;400&quot;&gt;Guardians&lt;/text&gt;
+&lt;path d=&quot;M528.6136065926484,80H565.1351923640681A4.0,4.0 0 0 1 569.1351923640681,84.0V98.0A4.0,4.0 0 0 1 565.1351923640681,102H528.6136065926484Z&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Guardians: 68-68, expected 66.6 wins from 546 runs scored and 558 allowed (+1.4 wins)&lt;/title&gt;&lt;/path&gt;
+&lt;text x=&quot;577.1&quot; y=&quot;95.0&quot; text-anchor=&quot;start&quot; fill=&quot;var(--muted)&quot; font-size=&quot;12&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;+1.4&lt;/text&gt;
+&lt;text x=&quot;106&quot; y=&quot;129.0&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12.5&quot; font-weight=&quot;400&quot;&gt;Royals&lt;/text&gt;
+&lt;path d=&quot;M528.6136065926484,114H547.62153771229A4.0,4.0 0 0 1 551.62153771229,118.0V132.0A4.0,4.0 0 0 1 547.62153771229,136H528.6136065926484Z&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Royals: 62-75, expected 61.2 wins from 589 runs scored and 662 allowed (+0.8 wins)&lt;/title&gt;&lt;/path&gt;
+&lt;text x=&quot;559.6&quot; y=&quot;129.0&quot; text-anchor=&quot;start&quot; fill=&quot;var(--muted)&quot; font-size=&quot;12&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;+0.8&lt;/text&gt;
+&lt;text x=&quot;106&quot; y=&quot;163.0&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12.5&quot; font-weight=&quot;400&quot;&gt;White Sox&lt;/text&gt;
+&lt;path d=&quot;M524.6136065926484,148H523.608497704448A4.0,4.0 0 0 0 519.608497704448,152.0V166.0A4.0,4.0 0 0 0 523.608497704448,170H524.6136065926484Z&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;White Sox: 72-63, expected 72.2 wins from 651 runs scored and 603 allowed (-0.2 wins)&lt;/title&gt;&lt;/path&gt;
+&lt;text x=&quot;511.6&quot; y=&quot;163.0&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;12&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;-0.2&lt;/text&gt;
+&lt;text x=&quot;106&quot; y=&quot;197.0&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12.5&quot; font-weight=&quot;600&quot;&gt;Tigers&lt;/text&gt;
+&lt;path d=&quot;M524.6136065926484,182H147.15170538791608A4.0,4.0 0 0 0 143.15170538791608,186.0V200.0A4.0,4.0 0 0 0 147.15170538791608,204H524.6136065926484Z&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Tigers: 63-72, expected 75.2 wins from 595 runs scored and 525 allowed (-12.2 wins)&lt;/title&gt;&lt;/path&gt;
+&lt;text x=&quot;135.2&quot; y=&quot;197.0&quot; text-anchor=&quot;end&quot; fill=&quot;var(--muted)&quot; font-size=&quot;12&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;-12.2&lt;/text&gt;
+&lt;/svg&gt;
+&lt;p&gt;The same numbers, for anyone who would rather read them:&lt;/p&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;AL Central&lt;/th&gt;&lt;th&gt;Record&lt;/th&gt;&lt;th&gt;RS&lt;/th&gt;&lt;th&gt;RA&lt;/th&gt;&lt;th&gt;Expected wins&lt;/th&gt;&lt;th&gt;Above or below&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Twins&lt;/td&gt;&lt;td&gt;64-72&lt;/td&gt;&lt;td&gt;621&lt;/td&gt;&lt;td&gt;681&lt;/td&gt;&lt;td&gt;62.3&lt;/td&gt;&lt;td&gt;+1.7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Guardians&lt;/td&gt;&lt;td&gt;68-68&lt;/td&gt;&lt;td&gt;546&lt;/td&gt;&lt;td&gt;558&lt;/td&gt;&lt;td&gt;66.6&lt;/td&gt;&lt;td&gt;+1.4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Royals&lt;/td&gt;&lt;td&gt;62-75&lt;/td&gt;&lt;td&gt;589&lt;/td&gt;&lt;td&gt;662&lt;/td&gt;&lt;td&gt;61.2&lt;/td&gt;&lt;td&gt;+0.8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;White Sox&lt;/td&gt;&lt;td&gt;72-63&lt;/td&gt;&lt;td&gt;651&lt;/td&gt;&lt;td&gt;603&lt;/td&gt;&lt;td&gt;72.2&lt;/td&gt;&lt;td&gt;-0.2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tigers&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;63-72&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;595&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;525&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;75.2&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;-12.2&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Pythagorean exponent 1.83, which is Baseball Reference&amp;#x27;s standard. Four teams in this division sit within 2 wins of what their runs say they should have. The fifth is 12 under, and it&amp;#x27;s the only one in the group with a positive run differential.&lt;/p&gt;
+&lt;p&gt;That -12.2 is the largest gap in baseball. Second place is the Angels at -7.7, and they at least have the decency to be bad at everything.&lt;/p&gt;
+&lt;h2&gt;Where the 12 wins went&lt;/h2&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Tigers&lt;/th&gt;&lt;th&gt;Twins&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Team ERA&lt;/td&gt;&lt;td&gt;&lt;strong&gt;3.56&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;4.68&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WHIP&lt;/td&gt;&lt;td&gt;&lt;strong&gt;1.22&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;1.39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Saves&lt;/td&gt;&lt;td&gt;27&lt;/td&gt;&lt;td&gt;38&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Blown saves&lt;/td&gt;&lt;td&gt;&lt;strong&gt;28&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Record in 1-run games&lt;/td&gt;&lt;td&gt;&lt;strong&gt;13-23&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;14-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Record in extra innings&lt;/td&gt;&lt;td&gt;4-7&lt;/td&gt;&lt;td&gt;4-3&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Detroit has blown more saves than it has converted. 27 for 55 is the 2nd worst conversion rate in the major leagues, behind only the Angels, and it&amp;#x27;s being posted by the staff with the best ERA in this division. Minnesota&amp;#x27;s pitchers give up more than a full run a game more than Detroit&amp;#x27;s and convert 38 of 54.&lt;/p&gt;
+&lt;p&gt;13-23 in one-run games is the same fact told as wins and losses. Detroit has played 36 of them, more than a quarter of its season, and lost 23. You don&amp;#x27;t need a model to turn 156 runs of pitching advantage into nothing. You just need to keep handing 1-run leads back in the 8th.&lt;/p&gt;
+&lt;h2&gt;The season series says the opposite, and it&amp;#x27;s 7 games&lt;/h2&gt;
+&lt;p&gt;Minnesota has won 5 of 7. Detroit has outscored them anyway.&lt;/p&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Score&lt;/th&gt;&lt;th&gt;Where&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Apr 6&lt;/td&gt;&lt;td&gt;Detroit 3, Minnesota 7&lt;/td&gt;&lt;td&gt;at Minnesota&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Apr 7&lt;/td&gt;&lt;td&gt;Detroit 2, Minnesota 4&lt;/td&gt;&lt;td&gt;at Minnesota&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Apr 8&lt;/td&gt;&lt;td&gt;Detroit 6, Minnesota 8&lt;/td&gt;&lt;td&gt;at Minnesota&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Apr 9&lt;/td&gt;&lt;td&gt;Detroit 1, Minnesota 3&lt;/td&gt;&lt;td&gt;at Minnesota&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jun 9&lt;/td&gt;&lt;td&gt;Detroit 10, Minnesota 4&lt;/td&gt;&lt;td&gt;at Detroit&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jun 10&lt;/td&gt;&lt;td&gt;Detroit 4, Minnesota 6&lt;/td&gt;&lt;td&gt;at Detroit&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jun 11&lt;/td&gt;&lt;td&gt;Detroit 11, Minnesota 0&lt;/td&gt;&lt;td&gt;at Detroit&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;37 runs to 32, and 21 of Detroit&amp;#x27;s 37 came in the 2 games it won. That isn&amp;#x27;t a mystery, it&amp;#x27;s the 1-run game problem wearing an April jersey: 4 games at Target Field, 4 losses, 3 of them by exactly 2 runs.&lt;/p&gt;
+&lt;h2&gt;What Minnesota is missing&lt;/h2&gt;
+&lt;p&gt;Joe Ryan is on the 15-day injured list. 125.2 innings, 3.65 ERA, and on a staff whose team number is 4.68 he&amp;#x27;s the one starter who has been meaningfully better than the group. Austin Martin is on the 10-day.&lt;/p&gt;
+&lt;p&gt;None of the 3 starters for this series had been named as of Sunday morning, on either side, so this is a team-level call rather than a matchup one and I&amp;#x27;d rather say that than pretend I know who&amp;#x27;s throwing.&lt;/p&gt;
+&lt;p&gt;Detroit&amp;#x27;s own list is worse and has been for 2 weeks. Riley Greene, Kerry Carpenter and Matt Vierling are all out, which is an outfield, and Greene was an .816 OPS over 492 plate appearances. Jack Flaherty is on the 15-day.&lt;/p&gt;
+&lt;h2&gt;The call&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tigers win Monday. Low.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The case is that Minnesota has to score to win and this Detroit pitching staff is the reason nobody in this division scores on it. 525 runs allowed in 135 games is 3.9 a night. Minnesota gives up 5.0. Over 3 games, the club allowing a run less per game should take the series, and that&amp;#x27;s why the series call is Detroit in 2 of 3 even with the head to head pointing the other way.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The series: Detroit takes 2 of 3.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And here&amp;#x27;s the number that argues hardest against all of that, because it&amp;#x27;s the only sample of this exact matchup in this exact park: in those 4 April games at Target Field, Detroit allowed &lt;strong&gt;22 runs&lt;/strong&gt;. 5.5 a game, from the staff this whole piece has been calling the best in the division, and worse than the 5.0 Minnesota gives up on the season.&lt;/p&gt;
+&lt;p&gt;4 games is 4 games and I&amp;#x27;m not going to build a pick on it. But I&amp;#x27;m also not going to quote a season average at you and quietly skip the one slice of it that was played where Monday&amp;#x27;s game is going to be played.&lt;/p&gt;
+&lt;h2&gt;What scares me&lt;/h2&gt;
+&lt;p&gt;Everything about how Detroit has actually been playing.&lt;/p&gt;
+&lt;p&gt;2-8 in its last 10. 29-38 on the road. 3-9 over the last 14 days. A .239 team average with 3 outfielders on the injured list, and the last 2 weeks have been full of nights where Detroit got 6 hits and lost. Saturday it got 6 hits and won, and that felt like an exception rather than a turn.&lt;/p&gt;
+&lt;p&gt;And the mechanism hasn&amp;#x27;t been fixed. Nothing about this morning says the bullpen that&amp;#x27;s 27 for 55 has stopped being 27 for 55. If Monday is 2-1 in the 7th, all of the above is a good argument that loses anyway, which is what a 12 win gap is: a good argument losing 36 times.&lt;/p&gt;
+&lt;p&gt;It&amp;#x27;s Low because I think Detroit is the better team and I&amp;#x27;ve watched the better team lose this exact game since April.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Not betting advice.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Graded: Pick No. 17. The bullpen the pick was built against threw 3.2 shutout innings</title>
+    <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-30-grade-pick-17.html"/>
+    <id>tag:detroitsportsreporter.com,2026:journal/2026-08-30-grade-pick-17.html</id>
+    <updated>2026-08-30T12:58:00Z</updated>
+    <published>2026-08-30T12:58:00Z</published>
+    <summary type="text">The call was Dodgers win, Low, and the argument underneath it was Detroit&#x27;s bullpen: 27 saves, 28 blown. Saturday the Detroit pen threw 3.2 scoreless and Los Angeles blew it in the 9th. Kevin McGonigle walked it off. Final: Tigers 2, Dodgers 1.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;The call, committed before first pitch:&lt;/strong&gt; Dodgers win. Confidence Low.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The result:&lt;/strong&gt; Tigers 2, Dodgers 1. &lt;code&gt;gamePk&lt;/code&gt; 824230, Final on the id.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Record: 9-8.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;The pick lost to its own central argument&lt;/h2&gt;
+&lt;p&gt;The whole case for Los Angeles was 2 rows of bullpen numbers. Detroit had blown more saves than it had converted, 27 for 55, and the theory was that a game with 2 rusty starters becomes a bullpen game, and Detroit loses bullpen games.&lt;/p&gt;
+&lt;p&gt;It became a bullpen game. Detroit won it.&lt;/p&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Saturday, after the starters left&lt;/th&gt;&lt;th&gt;IP&lt;/th&gt;&lt;th&gt;H&lt;/th&gt;&lt;th&gt;R&lt;/th&gt;&lt;th&gt;BB&lt;/th&gt;&lt;th&gt;K&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Detroit: Holton, Sears, Jansen&lt;/td&gt;&lt;td&gt;3.2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Los Angeles: Halvorsen, Vesia, Henriquez, Dreyer&lt;/td&gt;&lt;td&gt;3.1&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Jack Dreyer got 1 out in the 9th, walked 2, gave up 2 hits, and Kevin McGonigle singled Javier Baez home to end it. Kenley Jansen threw a third of an inning for Detroit and got the win against the club he spent a decade closing for.&lt;/p&gt;
+&lt;h2&gt;Snell was better than the entry expected and it did not matter&lt;/h2&gt;
+&lt;p&gt;The thing named as the scare was Snell&amp;#x27;s command: 7 walks in 18 innings since he came back, and a 4th inning where he loses the zone.&lt;/p&gt;
+&lt;p&gt;He walked 3 and struck out 10 in 5 innings, matching his highest strikeout total of the season in 1 fewer inning. It took him 99 pitches to get through 5, which is why he was gone after them.&lt;/p&gt;
+&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Blake Snell, Saturday&lt;/th&gt;&lt;th&gt;5.0 IP&lt;/th&gt;&lt;th&gt;3 H&lt;/th&gt;&lt;th&gt;1 ER&lt;/th&gt;&lt;th&gt;3 BB&lt;/th&gt;&lt;th&gt;10 K&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Keider Montero, on 11 days rest, went 5.1 and gave up 1. The rust game the entry described did happen. Both starters were fine, both left early, and the game went to the part the pick had already called wrong.&lt;/p&gt;
+&lt;h2&gt;What Detroit&amp;#x27;s night actually looked like&lt;/h2&gt;
+&lt;p&gt;6 hits. 12 men left on base. A ground-rule double from Gleyber Torres in the 3rd, then nothing for 5 innings, then Freddie Freeman singled Alek Thomas home in the 6th to tie it, then nothing again until the 9th.&lt;/p&gt;
+&lt;p&gt;That is a club that scored 2 runs on 6 hits and won, which is the inverse of the last 2 weeks, where it kept out-hitting people and losing. Detroit is 63-72 with 595 runs scored and 525 allowed. That plus 70 against a losing record is still the largest gap between record and run differential in baseball, and Saturday is the kind of night that closes it a tenth of a win.&lt;/p&gt;
+&lt;p&gt;The pick was Low and it says in the entry why: a Saturday afternoon game between 2 pitchers on strange schedules is not a sure thing. That was right about the uncertainty and wrong about the side.&lt;/p&gt;
+&lt;p&gt;Sunday is Valdez against a Los Angeles starter still not named as of Saturday morning, and that one is already on the board.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Not betting advice.&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>The Lions finish 2-1 or 1-2 today, and 25 years of data says the difference is about 1.4 wins</title>
     <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-29-lions-preseason-finale-buckets.html"/>
@@ -2434,153 +2524,5 @@
 &lt;p&gt;Javier Báez scored in the 7th on a caught stealing that José Ramírez dropped at third base. That&amp;#x27;s worth flagging because it&amp;#x27;s the whole subject of today&amp;#x27;s other entry, and it&amp;#x27;s the sort of run this team hasn&amp;#x27;t been manufacturing.&lt;/p&gt;
 &lt;p&gt;Sources: MLB Stats API, pulled 2026-08-12, for the final, the box score, the play by play, both pitching lines and the standings.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Not betting advice. Just calls, made in public and kept in public.&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>The Wings got handed the hardest schedule in hockey, and it barely matters</title>
-    <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-11-red-wings-schedule-strength.html"/>
-    <id>tag:detroitsportsreporter.com,2026:journal/2026-08-11-red-wings-schedule-strength.html</id>
-    <updated>2026-08-11T12:59:00Z</updated>
-    <published>2026-08-11T12:59:00Z</published>
-    <summary type="text">Detroit plays 45 games against last season&#x27;s playoff teams, tied for most in the NHL. Then you look at the spread and the whole league fits inside 3.5 points of opponent quality. The number that actually should worry you is 92 points on a minus 17 goal differential.</summary>
-    <content type="html">&lt;p&gt;The Wings don&amp;#x27;t play until October 2, home to the Rangers. But the 2026-27 schedule is out, all 84 games of it, so I pulled the whole thing for all 32 teams and scored it. Nobody writes this piece in August, which is exactly why it&amp;#x27;s worth writing.&lt;/p&gt;
-&lt;p&gt;First thing worth knowing: it&amp;#x27;s 84 games now, not 82. That&amp;#x27;s what the league&amp;#x27;s own schedule feed says for every team.&lt;/p&gt;
-&lt;h2&gt;The headline, which I don&amp;#x27;t really believe&lt;/h2&gt;
-&lt;p&gt;Detroit plays &lt;strong&gt;45 games against teams that made the 2026 playoffs&lt;/strong&gt;. That&amp;#x27;s the most in the NHL. League average is 42.&lt;/p&gt;
-&lt;p&gt;Sounds brutal. Then you look at who else is on 45, and it&amp;#x27;s Florida and Toronto, and suddenly it isn&amp;#x27;t a curse, it&amp;#x27;s an address. Those are the 3 Atlantic teams that missed the playoffs last year, and the Atlantic sent 5 of its 8 to the postseason. Buffalo, Tampa, Montreal, Boston, Ottawa. You play each of your division 4 times, so that&amp;#x27;s 20 of your 45 before anybody sits down to make a schedule.&lt;/p&gt;
-&lt;p&gt;The formula does the rest. 4 games against each of the 7 division rivals, 3 against each of the 8 in the Metro, 2 against each of the 16 out west. 28 plus 24 plus 32 is 84. There&amp;#x27;s almost no room in there for the league to do anything to you.&lt;/p&gt;
-&lt;p&gt;Here&amp;#x27;s what that looks like when you put every team on the same axis. Average points their opponents earned last season, weighted by how often they meet:&lt;/p&gt;
-&lt;svg viewBox=&quot;0 0 640 176&quot; width=&quot;100%&quot; role=&quot;img&quot; aria-labelledby=&quot;nhl-sos-t&quot; style=&quot;max-width:640px;height:auto;font-family:ui-sans-serif,system-ui,-apple-system,&#x27;Segoe UI&#x27;,Roboto,sans-serif&quot;&gt;
-&lt;title id=&quot;nhl-sos-t&quot;&gt;Every NHL team&#x27;s 2026-27 schedule strength, plotted as average opponent points from last season. All 32 teams fall between 90.4 and 93.9, with Detroit at 93.2.&lt;/title&gt;
-&lt;text x=&quot;0&quot; y=&quot;16&quot; fill=&quot;var(--fg)&quot; font-size=&quot;13&quot; font-weight=&quot;600&quot;&gt;Every team&#x27;s 2026-27 schedule, on one axis&lt;/text&gt;
-&lt;text x=&quot;0&quot; y=&quot;34&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;Average points each team&#x27;s opponents earned last season. 32 dots. The whole league fits in 3.5 points.&lt;/text&gt;
-&lt;line x1=&quot;40&quot; y1=&quot;118&quot; x2=&quot;600&quot; y2=&quot;118&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
-&lt;line x1=&quot;40.0&quot; y1=&quot;118&quot; x2=&quot;40.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
-&lt;text x=&quot;40.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;90&lt;/text&gt;
-&lt;line x1=&quot;180.0&quot; y1=&quot;118&quot; x2=&quot;180.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
-&lt;text x=&quot;180.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;91&lt;/text&gt;
-&lt;line x1=&quot;320.0&quot; y1=&quot;118&quot; x2=&quot;320.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
-&lt;text x=&quot;320.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;92&lt;/text&gt;
-&lt;line x1=&quot;460.0&quot; y1=&quot;118&quot; x2=&quot;460.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
-&lt;text x=&quot;460.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;93&lt;/text&gt;
-&lt;line x1=&quot;600.0&quot; y1=&quot;118&quot; x2=&quot;600.0&quot; y2=&quot;123&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;1&quot;/&gt;
-&lt;text x=&quot;600.0&quot; y=&quot;137&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;94&lt;/text&gt;
-&lt;line x1=&quot;346.2&quot; y1=&quot;60&quot; x2=&quot;346.2&quot; y2=&quot;118&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;2&quot; stroke-dasharray=&quot;3 3&quot;/&gt;
-&lt;text x=&quot;346.2&quot; y=&quot;55&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;league average 92.19&lt;/text&gt;
-&lt;circle cx=&quot;585.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;TOR: 93.89&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;553.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;NYR: 93.67&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;545.0&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;FLA: 93.61&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;491.7&quot; cy=&quot;108&quot; r=&quot;6&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Detroit: 93.23, rank 4 of 32&lt;/title&gt;&lt;/circle&gt;
-&lt;line x1=&quot;491.7&quot; y1=&quot;72&quot; x2=&quot;491.7&quot; y2=&quot;101&quot; stroke=&quot;var(--chart-neg)&quot; stroke-width=&quot;1&quot;/&gt;
-&lt;text x=&quot;491.7&quot; y=&quot;69&quot; text-anchor=&quot;middle&quot; fill=&quot;var(--fg)&quot; font-size=&quot;11&quot; font-weight=&quot;700&quot;&gt;DET&lt;/text&gt;
-&lt;circle cx=&quot;486.7&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;NJD: 93.19&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;460.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;NYI: 93.00&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;453.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;CBJ: 92.95&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;445.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;OTT: 92.89&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;438.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;BOS: 92.85&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;433.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;WSH: 92.81&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;426.7&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;CHI: 92.76&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;413.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;PHI: 92.67&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;413.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;PIT: 92.67&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;398.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;MTL: 92.56&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;398.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;TBL: 92.56&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;378.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;BUF: 92.42&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;378.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;VAN: 92.42&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;360.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;WPG: 92.29&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;333.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;NSH: 92.10&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;333.3&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;STL: 92.10&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;313.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;CAR: 91.95&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;293.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;UTA: 91.81&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;251.7&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;CGY: 91.51&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;238.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;SEA: 91.42&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;213.3&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;MIN: 91.24&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;191.7&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;SJS: 91.08&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;165.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;LAK: 90.89&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;160.0&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;DAL: 90.86&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;151.7&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;ANA: 90.80&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;145.0&quot; cy=&quot;97&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;EDM: 90.75&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;131.7&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;VGK: 90.65&lt;/title&gt;&lt;/circle&gt;
-&lt;circle cx=&quot;100.0&quot; cy=&quot;108&quot; r=&quot;4&quot; fill=&quot;var(--muted)&quot; opacity=&quot;0.55&quot;&gt;&lt;title&gt;COL: 90.43&lt;/title&gt;&lt;/circle&gt;
-&lt;text x=&quot;0&quot; y=&quot;170&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;Detroit 93.23, rank 4 of 32. Hardest TOR 93.89, easiest COL 90.43.&lt;/text&gt;
-&lt;/svg&gt;
-&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Average opponent points&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Toronto, hardest&lt;/td&gt;&lt;td&gt;93.89&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;NY Rangers&lt;/td&gt;&lt;td&gt;93.67&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Florida&lt;/td&gt;&lt;td&gt;93.61&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Detroit, 4th&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;93.23&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;League average&lt;/td&gt;&lt;td&gt;92.19&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Edmonton&lt;/td&gt;&lt;td&gt;90.75&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Vegas&lt;/td&gt;&lt;td&gt;90.65&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Colorado, easiest&lt;/td&gt;&lt;td&gt;90.43&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;Toughest schedule in the league to easiest is 3.5 points of opponent quality. Detroit sits about 1 point above average. Over 84 games that&amp;#x27;s real but it&amp;#x27;s not the story, and if the Wings miss by 2 points in April I don&amp;#x27;t think you get to point at this.&lt;/p&gt;
-&lt;h2&gt;The number in their favour is bigger than the one against&lt;/h2&gt;
-&lt;p&gt;This is the part I didn&amp;#x27;t expect. Detroit travels &lt;strong&gt;35,625 miles&lt;/strong&gt; next season, counting great circle distance between arenas and the trips home at each end. That&amp;#x27;s 4th least in the league. Only Pittsburgh, Buffalo and Philly move less.&lt;/p&gt;
-&lt;p&gt;League average is 42,464. Seattle does 51,973.&lt;/p&gt;
-&lt;p&gt;So the Wings will be about 6,800 miles fresher than a typical team and roughly 16,000 fresher than Seattle. In a sport where the whole conversation in March is about legs, that&amp;#x27;s a bigger edge than 1 point of opponent quality is a disadvantage.&lt;/p&gt;
-&lt;p&gt;The rest of the fatigue picture is unremarkable. 12 back-to-backs, which is right in the middle, and only 2 of those are the bad kind where they&amp;#x27;re on the second night and the other team&amp;#x27;s had at least 2 days off. Longest road trip is 5, longest homestand is 4. 42 home, 42 away.&lt;/p&gt;
-&lt;h2&gt;What should actually worry you&lt;/h2&gt;
-&lt;p&gt;92 points last season. 41-31-10. And a goal differential of &lt;strong&gt;minus 17&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Those don&amp;#x27;t normally go together. Fit points against goal differential across all 32 teams and the line is tight, 91% of the variation, typical miss under 4 points. Detroit finished &lt;strong&gt;5.0 points above&lt;/strong&gt; what its goals said it should have, 3rd most in the league behind San Jose and Montreal.&lt;/p&gt;
-&lt;p&gt;Now the honest version of that, because 3rd of 32 sounds worse than it is: the typical team misses the line by 3.9 points, so 5.0 is barely outside ordinary. It&amp;#x27;s not a scandal. It&amp;#x27;s a nudge.&lt;/p&gt;
-&lt;p&gt;But it&amp;#x27;s a nudge in the wrong direction, and the gap is what makes it sting. The last Eastern wild card was Ottawa at 99. Detroit had 92. That&amp;#x27;s 7 points short, and if you think even a few of those 92 were borrowed, the real climb is closer to 10 or 12.&lt;/p&gt;
-&lt;p&gt;You don&amp;#x27;t get 12 points out of a friendly travel map. You get it from scoring more than you give up, and 241 for and 258 against is a team that didn&amp;#x27;t.&lt;/p&gt;
-&lt;h2&gt;The thing hanging over all of it&lt;/h2&gt;
-&lt;p&gt;I can&amp;#x27;t write about the Wings today and skip this. Yzerman&amp;#x27;s moving to a senior advisor role and there&amp;#x27;s an actual GM search running, with an outside firm doing it and Shawn Horcoff handling the day to day in the meantime. Reporting says they&amp;#x27;re prioritizing somebody with a heavy analytics background and might not decide until September.&lt;/p&gt;
-&lt;p&gt;Which is a little funny given everything above. The next guy is being hired partly to know the difference between a number that means something and a number that just looks scary, and the schedule is about to hand him a great example of the second kind. 45 games against playoff teams is going to get quoted all season. Minus 17 is the one that decides anything.&lt;/p&gt;
-&lt;p&gt;I&amp;#x27;d hold off on reading much into the schedule until we know who&amp;#x27;s reading it.&lt;/p&gt;
-&lt;h2&gt;What I&amp;#x27;ll be watching&lt;/h2&gt;
-&lt;p&gt;Goal differential through American Thanksgiving. Not points, not the standings, not whatever a hot October does to everyone&amp;#x27;s mood. If they&amp;#x27;re plus by then, the schedule stuff above is noise and this is a playoff team. If they&amp;#x27;re 12-8-3 with a minus 6, that&amp;#x27;s last season again and the travel savings won&amp;#x27;t cover it.&lt;/p&gt;
-&lt;p&gt;I&amp;#x27;ll take the under on the schedule being the reason, either way.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Everything above comes from the NHL&amp;#x27;s public API: the 2026-27 schedule for all 32 clubs and the final 2025-26 standings. The script that derives every number here, including the chart, is &lt;code&gt;scripts/nhl_schedule.py&lt;/code&gt; in the repository. Arena coordinates were entered by hand because the league doesn&amp;#x27;t publish them, and travel is great circle miles between arenas, which isn&amp;#x27;t the same as flight miles.&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Somebody said the whole season is the blown saves. So I counted the leads instead.</title>
-    <link rel="alternate" type="text/html" href="https://detroitsportsreporter.com/journal/2026-08-11-leads-that-got-away.html"/>
-    <id>tag:detroitsportsreporter.com,2026:journal/2026-08-11-leads-that-got-away.html</id>
-    <updated>2026-08-11T12:58:00Z</updated>
-    <published>2026-08-11T12:58:00Z</published>
-    <summary type="text">Detroit has led after 7 innings 57 times and lost 11 of those games. The league holds 90.2% of those leads. At that rate the Tigers would have about 5 more wins, which puts them in first place. The claim checks out.</summary>
-    <content type="html">&lt;p&gt;Somebody on the Tigers sub put it about as plainly as it can be put: the whole season is that blown save number, and if it was 20 instead of 26 we&amp;#x27;d be in first. 25 people upvoted it. So I went and checked whether that&amp;#x27;s actually true.&lt;/p&gt;
-&lt;p&gt;Here&amp;#x27;s the thing about blown saves though. A blown save isn&amp;#x27;t a loss. You can blow 1 in the 8th and win in the 10th, and that still goes in the column. So counting them doesn&amp;#x27;t tell you what it cost. What tells you is the leads that turned into losses.&lt;/p&gt;
-&lt;p&gt;So I pulled every inning of every game for all 30 teams and rebuilt the score after 7.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Detroit has led after 7 innings 57 times this year and lost 11 of them.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;What everyone else does with a lead&lt;/h2&gt;
-&lt;p&gt;The league held 1,436 of 1,592 leads after 7. That&amp;#x27;s 90.2%.&lt;/p&gt;
-&lt;svg viewBox=&quot;0 0 640 288&quot; width=&quot;100%&quot; role=&quot;img&quot; aria-labelledby=&quot;lead-t&quot; style=&quot;max-width:640px;height:auto;font-family:ui-sans-serif,system-ui,-apple-system,&#x27;Segoe UI&#x27;,Roboto,sans-serif&quot;&gt;
-&lt;title id=&quot;lead-t&quot;&gt;Share of leads after 7 innings that each team held&lt;/title&gt;
-&lt;text x=&quot;0&quot; y=&quot;16&quot; fill=&quot;var(--fg)&quot; font-size=&quot;13&quot; font-weight=&quot;600&quot;&gt;How often a lead after 7 innings survives&lt;/text&gt;
-&lt;text x=&quot;0&quot; y=&quot;34&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot;&gt;Teams with at least 35 such leads. The line is the league rate.&lt;/text&gt;
-&lt;line x1=&quot;445.5&quot; y1=&quot;48&quot; x2=&quot;445.5&quot; y2=&quot;268&quot; stroke=&quot;var(--rule)&quot; stroke-width=&quot;2&quot;/&gt;
-&lt;text x=&quot;182&quot; y=&quot;67&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Kansas City Royals&lt;/text&gt;
-&lt;rect x=&quot;190&quot; y=&quot;57&quot; width=&quot;56.0&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Kansas City Royals: held 38 of 49&lt;/title&gt;&lt;/rect&gt;
-&lt;text x=&quot;252.0&quot; y=&quot;69&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;77.6%&lt;/text&gt;
-&lt;text x=&quot;182&quot; y=&quot;93&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Athletics&lt;/text&gt;
-&lt;rect x=&quot;190&quot; y=&quot;83&quot; width=&quot;81.5&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Athletics: held 38 of 48&lt;/title&gt;&lt;/rect&gt;
-&lt;text x=&quot;277.5&quot; y=&quot;95&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;79.2%&lt;/text&gt;
-&lt;text x=&quot;182&quot; y=&quot;119&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Detroit Tigers&lt;/text&gt;
-&lt;rect x=&quot;190&quot; y=&quot;109&quot; width=&quot;105.7&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Detroit Tigers: held 46 of 57&lt;/title&gt;&lt;/rect&gt;
-&lt;text x=&quot;301.7&quot; y=&quot;121&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;80.7%&lt;/text&gt;
-&lt;text x=&quot;182&quot; y=&quot;145&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Los Angeles Angels&lt;/text&gt;
-&lt;rect x=&quot;190&quot; y=&quot;135&quot; width=&quot;108.0&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;Los Angeles Angels: held 38 of 47&lt;/title&gt;&lt;/rect&gt;
-&lt;text x=&quot;304.0&quot; y=&quot;147&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;80.9%&lt;/text&gt;
-&lt;text x=&quot;182&quot; y=&quot;171&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;San Francisco Giants&lt;/text&gt;
-&lt;rect x=&quot;190&quot; y=&quot;161&quot; width=&quot;147.2&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-neg)&quot;&gt;&lt;title&gt;San Francisco Giants: held 45 of 54&lt;/title&gt;&lt;/rect&gt;
-&lt;text x=&quot;343.2&quot; y=&quot;173&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;83.3%&lt;/text&gt;
-&lt;text x=&quot;182&quot; y=&quot;197&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;San Diego Padres&lt;/text&gt;
-&lt;rect x=&quot;190&quot; y=&quot;187&quot; width=&quot;377.8&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;San Diego Padres: held 48 of 49&lt;/title&gt;&lt;/rect&gt;
-&lt;text x=&quot;573.8&quot; y=&quot;199&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;98.0%&lt;/text&gt;
-&lt;text x=&quot;182&quot; y=&quot;223&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Texas Rangers&lt;/text&gt;
-&lt;rect x=&quot;190&quot; y=&quot;213&quot; width=&quot;377.8&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Texas Rangers: held 48 of 49&lt;/title&gt;&lt;/rect&gt;
-&lt;text x=&quot;573.8&quot; y=&quot;225&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;98.0%&lt;/text&gt;
-&lt;text x=&quot;182&quot; y=&quot;249&quot; text-anchor=&quot;end&quot; fill=&quot;var(--fg)&quot; font-size=&quot;12&quot;&gt;Tampa Bay Rays&lt;/text&gt;
-&lt;rect x=&quot;190&quot; y=&quot;239&quot; width=&quot;383.7&quot; height=&quot;15&quot; rx=&quot;4&quot; fill=&quot;var(--chart-pos)&quot;&gt;&lt;title&gt;Tampa Bay Rays: held 59 of 60&lt;/title&gt;&lt;/rect&gt;
-&lt;text x=&quot;579.7&quot; y=&quot;251&quot; fill=&quot;var(--muted)&quot; font-size=&quot;11&quot; font-variant-numeric=&quot;tabular-nums&quot;&gt;98.3%&lt;/text&gt;
-&lt;/svg&gt;
-&lt;div class=&quot;scroll&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Team&lt;/th&gt;&lt;th&gt;Leads after 7&lt;/th&gt;&lt;th&gt;Lost&lt;/th&gt;&lt;th&gt;Held&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Royals&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;77.6%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Athletics&lt;/td&gt;&lt;td&gt;48&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;79.2%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tigers&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;57&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;11&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;80.7%&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Angels&lt;/td&gt;&lt;td&gt;47&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;80.9%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Giants&lt;/td&gt;&lt;td&gt;54&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;83.3%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;League&lt;/td&gt;&lt;td&gt;1,592&lt;/td&gt;&lt;td&gt;156&lt;/td&gt;&lt;td&gt;90.2%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Padres&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;98.0%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rangers&lt;/td&gt;&lt;td&gt;49&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;98.0%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Rays&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;98.3%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;&lt;em&gt;Every completed game through Aug 10, rebuilt from the linescores on the MLB Stats API. Script&amp;#x27;s in the repo, run it yourself.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Tampa&amp;#x27;s led after 7 60 times and lost 1. Detroit&amp;#x27;s had 3 fewer chances and lost 11.&lt;/p&gt;
-&lt;h2&gt;What it cost, in wins&lt;/h2&gt;
-&lt;p&gt;At the league rate Detroit loses about 5.6 of those 57 leads. They lost 11. So call it &lt;strong&gt;5 extra losses&lt;/strong&gt;, and those 5 are the whole argument.&lt;/p&gt;
-&lt;p&gt;58-60 becomes roughly 63-55. Chicago&amp;#x27;s at 61-56. That&amp;#x27;s first place, by about a game and a half, and it&amp;#x27;s the middle of August.&lt;/p&gt;
-&lt;p&gt;So yeah, the guy was right.&lt;/p&gt;
-&lt;h2&gt;Where I&amp;#x27;d push back on myself&lt;/h2&gt;
-&lt;p&gt;A couple of things before anybody takes 63-55 as gospel.&lt;/p&gt;
-&lt;p&gt;Not every one of those 11 was a save situation. Detroit was up 5-1 after 7 on March 31 and lost 7-5, and that&amp;#x27;s a starter and a middle reliever coming apart, not a closer. The blown save number and the lost lead number overlap a lot but they aren&amp;#x27;t the same list.&lt;/p&gt;
-&lt;p&gt;And you don&amp;#x27;t automatically win the ones you don&amp;#x27;t lose. Some of those games are tied in the 9th and you&amp;#x27;re playing extras either way. The 5 wins is the ceiling of the argument, not a promise.&lt;/p&gt;
-&lt;p&gt;There&amp;#x27;s also a thing that cuts the other direction and nobody mentions it. Detroit has led after 7 in 57 games, which is 7th most in baseball. &lt;strong&gt;They keep getting into these positions.&lt;/strong&gt; The bullpen is what it is, but the rest of the team keeps handing it leads to lose, and a team that couldn&amp;#x27;t get there wouldn&amp;#x27;t even have the complaint.&lt;/p&gt;
-&lt;h2&gt;The narrower version&lt;/h2&gt;
-&lt;p&gt;Leads after 8 are the closer&amp;#x27;s problem more cleanly. Detroit&amp;#x27;s led after 8 in 54 games and lost 5. That&amp;#x27;s better. It&amp;#x27;s still 5.&lt;/p&gt;
-&lt;p&gt;Tonight it&amp;#x27;s Bibee against Anderson, and 5 of the 6 games against Cleveland this year came down to 1 or 2 runs. If this series turns on a 1 run game in the 8th, now you know what the number behind that feeling actually is.&lt;/p&gt;</content>
   </entry>
 </feed>
